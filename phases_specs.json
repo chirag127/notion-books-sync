@@ -1,0 +1,178 @@
+[
+  {
+    "order": 1,
+    "name": "Phase 01: Indian Cash Defense & Daily Habit Architecture",
+    "track": "Wealth / Markets & FIRE",
+    "priority": "EXTREMELY HIGH",
+    "status": "Active Reading",
+    "modern_highlight": "Money Works (Deepak Shenoy) & Same as Ever (Morgan Housel)",
+    "anchor_classic": "Let's Talk Money (Monika Halan) & Atomic Habits (James Clear)",
+    "mission": "Build the unshakeable personal cash flow foundation in India: emergency fund, term insurance, health cover, zero bad debt, and daily habit architecture.",
+    "books_count": 42
+  },
+  {
+    "order": 2,
+    "name": "Phase 02: 2024-2026 Modern AI Engineering & Production LLMs",
+    "track": "AI & Tech Leverage (2024-2026)",
+    "priority": "EXTREMELY HIGH",
+    "status": "Active Reading",
+    "modern_highlight": "The Thinking Machine (2025), Supremacy (2024) & AI Engineering (2025)",
+    "anchor_classic": "Why Machines Learn (2025) & The LLM Engineer Handbook (2025)",
+    "mission": "Master foundation models, GPU compute bottlenecks (Nvidia), production RAG architectures, prompt-to-code pipelines, and LangGraph agentic workflows.",
+    "books_count": 22
+  },
+  {
+    "order": 3,
+    "name": "Phase 03: Machine Learning, Data Science & AI Foundations",
+    "track": "Systems & Architecture",
+    "priority": "HIGH",
+    "status": "Next Up",
+    "modern_highlight": "Hands-On Machine Learning & Deep Learning with Python",
+    "anchor_classic": "Artificial Intelligence: A Modern Approach (Russell & Norvig)",
+    "mission": "Ground generative AI in solid mathematical statistics, vector embeddings, loss functions, transformer attention mechanics, and ML pipelines.",
+    "books_count": 33
+  },
+  {
+    "order": 4,
+    "name": "Phase 04: Senior Systems Architecture & Staff Engineering",
+    "track": "Systems & Architecture",
+    "priority": "EXTREMELY HIGH",
+    "status": "Next Up",
+    "modern_highlight": "The Software Engineer's Guidebook (Gergely Orosz)",
+    "anchor_classic": "Designing Data-Intensive Applications & System Design Interview",
+    "mission": "Master distributed storage engines, replication, consensus (Raft/Paxos), microservices decomposition, and staff-level architectural trade-offs.",
+    "books_count": 23
+  },
+  {
+    "order": 5,
+    "name": "Phase 05: Clean Code, Software Craft & TCS Escape Leverage",
+    "track": "Systems & Architecture",
+    "priority": "EXTREMELY HIGH",
+    "status": "Next Up",
+    "modern_highlight": "Staff Engineer (Will Larson) & The Staff Engineer Path (Tanya Reilly)",
+    "anchor_classic": "Clean Code, The Pragmatic Programmer & Cracking the Coding Interview",
+    "mission": "Transform from a corporate services cog into an elite product-tier engineer commanding top-percentile CTC and global remote compensation.",
+    "books_count": 33
+  },
+  {
+    "order": 6,
+    "name": "Phase 06: Indian Capital Markets & Compounding Champions",
+    "track": "Wealth / Markets & FIRE",
+    "priority": "EXTREMELY HIGH",
+    "status": "Queued",
+    "modern_highlight": "The Sacred Truths of Investing (2025) & Money Works (Deepak Shenoy)",
+    "anchor_classic": "Coffee Can Investing (Saurabh Mukherjea) & Diamonds in the Dust",
+    "mission": "Master the Indian equity landscape: identify clean accounting, high ROCE moats, pricing power, and long-term compounding machines in the Indian economy.",
+    "books_count": 35
+  },
+  {
+    "order": 7,
+    "name": "Phase 07: Investment Philosophy, Margin of Safety & Value Allocation",
+    "track": "Wealth / Markets & FIRE",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "1929: Inside the Greatest Crash in Wall Street History (2025)",
+    "anchor_classic": "The Intelligent Investor (Benjamin Graham) & One Up On Wall Street",
+    "mission": "Internalize Mr. Market, margin of safety, risk mitigation, and emotional resilience to preserve capital during euphoric tops and panic bottoms.",
+    "books_count": 15
+  },
+  {
+    "order": 8,
+    "name": "Phase 08: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "track": "Micro-SaaS & Solopreneurship",
+    "priority": "EXTREMELY HIGH",
+    "status": "Queued",
+    "modern_highlight": "MAKE: The Bootstrapper's Handbook (Pieter Levels)",
+    "anchor_classic": "The Almanack of Naval Ravikant (Eric Jorgenson)",
+    "mission": "Leverage permissionless code and media to build micro-SaaS, digital products, and recurring revenue tools that decouple time from income.",
+    "books_count": 15
+  },
+  {
+    "order": 9,
+    "name": "Phase 09: The Fastlane, Startup Velocity & Unscripted Wealth",
+    "track": "Micro-SaaS & Solopreneurship",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "Unscripted: The Great Rat Race Escape & Amp It Up (Frank Slootman)",
+    "anchor_classic": "The Millionaire Fastlane (MJ DeMarco) & Zero to One (Peter Thiel)",
+    "mission": "Break free from the Slowlane 40-year cubicle script by understanding scalable business systems, asymmetric risk, and technological monopolies.",
+    "books_count": 35
+  },
+  {
+    "order": 10,
+    "name": "Phase 10: Behavioral Finance, Financial Crises & Credit Markets",
+    "track": "Wealth / Markets & FIRE",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "The Fund (Ray Dalio) & Going Infinite (Michael Lewis)",
+    "anchor_classic": "Early Retirement Extreme & The Book on Rental Property",
+    "mission": "Understand financial bubbles, systemic contagion, behavioral heuristics, credit markets, fixed income, and defensive cash-flow real estate.",
+    "books_count": 45
+  },
+  {
+    "order": 11,
+    "name": "Phase 11: Tech Geopolitics, Semiconductor Wars & Global Macro",
+    "track": "AI & Tech Leverage (2024-2026)",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "Chokepoints (2025) & Apple in China (2025)",
+    "anchor_classic": "Chip War (Chris Miller) & Principles for Navigating Big Debt Crises",
+    "mission": "Grasp the global macroeconomic chessboard: semiconductor lithography, export sanctions, sovereign debt cycles, currency wars, and supply chain chokepoints.",
+    "books_count": 34
+  },
+  {
+    "order": 12,
+    "name": "Phase 12: Charlie Munger's Mental Models & Decision Science",
+    "track": "Decision Science & Philosophy",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "Clear Thinking (Shane Parrish) & Fluke (2024)",
+    "anchor_classic": "Poor Charlie's Almanack & Thinking, Fast and Slow (Kahneman)",
+    "mission": "Build a multidisciplinary latticework of mental models: inversion, probabilistic thinking, superforecasting, and cognitive bias mitigation.",
+    "books_count": 33
+  },
+  {
+    "order": 13,
+    "name": "Phase 13: High-Stakes Negotiation, Sales & Persuasion Mastery",
+    "track": "Decision Science & Philosophy",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "Supercommunicators (Charles Duhigg 2024)",
+    "anchor_classic": "Never Split the Difference (Chris Voss) & Influence (Robert Cialdini)",
+    "mission": "Master tactical empathy, calibrated negotiation, executive communication, and high-stakes distribution power to win top contracts and deals.",
+    "books_count": 35
+  },
+  {
+    "order": 14,
+    "name": "Phase 14: Deep Work, Peak Performance & Rapid Learning",
+    "track": "Decision Science & Philosophy",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "Slow Productivity (Cal Newport 2024) & Hidden Potential (Adam Grant)",
+    "anchor_classic": "Deep Work (Cal Newport) & Peak: Secrets of Expertise (Anders Ericsson)",
+    "mission": "Eliminate cognitive fragmentation, master deliberate practice, and execute high-velocity intellectual output without burnout.",
+    "books_count": 34
+  },
+  {
+    "order": 15,
+    "name": "Phase 15: Quantitative Math, Strategic Moats & Institutions",
+    "track": "Systems & Architecture",
+    "priority": "MEDIUM",
+    "status": "Queued",
+    "modern_highlight": "7 Powers: Foundations of Business Strategy & Good to Great",
+    "anchor_classic": "Introduction to Algorithms (CLRS) & The Signal and the Noise",
+    "mission": "Understand mathematical foundations, corporate economic moats, institutional governance, law, and probabilistic systems.",
+    "books_count": 63
+  },
+  {
+    "order": 16,
+    "name": "Phase 16: Stoic Wisdom, Physical Longevity & Sovereign Freedom",
+    "track": "Decision Science & Philosophy",
+    "priority": "HIGH",
+    "status": "Queued",
+    "modern_highlight": "Outlive: Science of Longevity (Peter Attia) & Four Thousand Weeks",
+    "anchor_classic": "Mastery (Robert Greene), Meditations & The Courage to Be Disliked",
+    "mission": "Ensure the wealth and career freedom you build is crowned with supreme physical health, longevity, inner peace, and sovereign self-determination.",
+    "books_count": 48
+  }
+]
