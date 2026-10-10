@@ -1,0 +1,810 @@
+[
+  {
+    "order": 1,
+    "title": "Let's Talk Money",
+    "author": "Monika Halan",
+    "phase": "Phase 1: Indian Cash Engine & Defense",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 02: Personal Finance and Financial Independence",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Fix financial leakages in India: 3-account cash box, emergency fund, surrender toxic endowments, pure term/health insurance, automated equity SIPs.",
+    "youtube": "https://www.youtube.com/watch?v=0kP0s1c0s5M",
+    "chapters": [
+      {
+        "name": "The 3-Account Machine",
+        "detail": "Segregate salary into: (1) Living Expenses, (2) Emergency Shock Absorber (6 months in liquid/auto-sweep), and (3) Wealth Accumulation (automated equity SIPs on day 2)."
+      },
+      {
+        "name": "Insurance Reality Check",
+        "detail": "Never buy traditional endowment or money-back policies (yield 4-5%). Buy pure term insurance (cover 15x-20x annual income) + personal family health floater with a high-deductible Super Top-Up."
+      },
+      {
+        "name": "The Indian Equity Engine",
+        "detail": "Broad-market index funds (Nifty 50, Next 50) beating inflation. Time in the market trumps market timing."
+      },
+      {
+        "name": "Retirement Priority",
+        "detail": "You can get a loan for a home, car, or education; you CANNOT get a loan for retirement. Fund retirement first."
+      }
+    ],
+    "mentalModels": [
+      "The 3-Account Box System",
+      "Separation of Risk from Return",
+      "The Invisible Inflation Thief (Healthcare/Education at 10-12%)",
+      "The Forced Savings Auto-Sweep"
+    ],
+    "rules": [
+      "Automate 1st-of-month bank transfers into wealth accounts before discretionary spending.",
+      "Cancel/surrender toxic endowment policies once term insurance is active.",
+      "Never pause equity SIPs during market corrections."
+    ]
+  },
+  {
+    "order": 2,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "phase": "Phase 1: Indian Cash Engine & Defense",
+    "domain": "Decision Science & Thinking",
+    "part": "Part 01: Thinking / Learning & Decision-Making",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Doing well with money is behavioral; wealth is what you don't spend; room for error and defining 'Enough'.",
+    "youtube": "https://www.youtube.com/watch?v=T_s_U_qVb00",
+    "chapters": [
+      {
+        "name": "No One's Crazy",
+        "detail": "Personal financial history governs 80% of your risk tolerance. Recognize your biases."
+      },
+      {
+        "name": "Compounding Asymmetry",
+        "detail": "Over 95% of Warren Buffett's wealth came after age 65. Compounding demands patience, not extraordinary monthly returns."
+      },
+      {
+        "name": "Getting vs. Staying Wealthy",
+        "detail": "Getting money requires risk and optimism; staying wealthy requires frugality, paranoia, and a large cash cushion."
+      },
+      {
+        "name": "Wealth is What You Don't See",
+        "detail": "Rich is current display; wealth is the unspent liquidity and options that buy freedom."
+      },
+      {
+        "name": "Reasonable > Rational",
+        "detail": "Adopt a financial strategy that lets you sleep at night during 40% crashes rather than mathematically optimal formulas."
+      }
+    ],
+    "mentalModels": [
+      "The Man in the Car Paradox",
+      "The Cost of Admission (Volatility is not a fine)",
+      "Room for Error (Margin of Safety)",
+      "Defining 'Enough'"
+    ],
+    "rules": [
+      "Define baseline living costs and resist lifestyle inflation when salary jumps.",
+      "Keep 6-12 months cash reserves so you never become a forced seller in a panic.",
+      "Price stock market drops as the ticket fee for long-term equity growth."
+    ]
+  },
+  {
+    "order": 3,
+    "title": "The Software Engineer's Guidebook",
+    "author": "Gergely Orosz",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Technology / Math & Engineering",
+    "part": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Transition from IT service company implementation to high-tier product engineering, senior/staff levels, and high equity.",
+    "youtube": "https://www.youtube.com/watch?v=p33Kx11hZ-E",
+    "chapters": [
+      {
+        "name": "Career Archetypes & Company Tiers",
+        "detail": "Understand Tier 1 (global product tech/FAANG/high-growth remote) vs Tier 3 (regional IT service consultancies). Shifting tiers produces 3x-5x salary leaps."
+      },
+      {
+        "name": "The Senior Developer Threshold",
+        "detail": "Senior engineers are defined by self-direction, handling ambiguous requirements, and delivering end-to-end business value rather than just writing tickets."
+      },
+      {
+        "name": "System Design & Architecture Ownership",
+        "detail": "Mastering trade-offs, scalability, operational reliability, and domain modeling."
+      },
+      {
+        "name": "Staff Engineer Archetypes",
+        "detail": "The Tech Lead, Architect, Solver, and Right Hand: Scaling your impact across teams and driving technical strategy."
+      }
+    ],
+    "mentalModels": [
+      "The 3 Tech Company Tiers (Pragmatic Career Arbitrage)",
+      "Impact Over Activity (Solving business bottlenecks)",
+      "Technical Debt vs Business Agility",
+      "Visibility and Sponsorship in Tech"
+    ],
+    "rules": [
+      "Transition from implementation coder to systems designer who understands the business domain.",
+      "Build a portfolio of high-impact technical initiatives, architecture docs, and design proposals.",
+      "Target high-tier tech companies or remote international engineering roles to maximize savings rate."
+    ]
+  },
+  {
+    "order": 4,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Wealth is assets that earn while you sleep; specific knowledge, accountability, and permissionless leverage (Code & Media).",
+    "youtube": "https://www.youtube.com/watch?v=1-TZqOsVCN8",
+    "chapters": [
+      {
+        "name": "Building Wealth Without Luck",
+        "detail": "Seek wealth, not money or status. You get rich by giving society what it wants but does not yet know how to get, at scale."
+      },
+      {
+        "name": "The Four Forms of Leverage",
+        "detail": "(1) Labor (oldest, worst), (2) Capital (great, but requires money), (3) Code, and (4) Media (permissionless: works 24/7 with zero marginal cost of reproduction)."
+      },
+      {
+        "name": "Specific Knowledge & Accountability",
+        "detail": "Specific knowledge cannot be taught in school; it is found by pursuing your genuine curiosity. Take personal risks under your own name."
+      },
+      {
+        "name": "Judgment is the Decisive Skill",
+        "detail": "In an age of infinite leverage, judgment is worth infinitely more than raw effort."
+      }
+    ],
+    "mentalModels": [
+      "Permissionless Leverage (Code & Media)",
+      "Specific Knowledge vs Commoditized Skills",
+      "Productize Yourself",
+      "Compound Interest in Relationships and Reputation"
+    ],
+    "rules": [
+      "Never stay in a role where your compensation is capped strictly by hours worked.",
+      "Build digital assets (software, code libraries, content) that can scale infinitely.",
+      "Focus on judgment: a CEO or principal architect makes 10 decisions a year that drive $100M in value."
+    ]
+  },
+  {
+    "order": 5,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Decision Science & Thinking",
+    "part": "Part 18: Career Capital / Productivity and Execution",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "You don't rise to the level of your goals; you fall to the level of your systems. 1% compounding behavior change.",
+    "youtube": "https://www.youtube.com/watch?v=PZ7lDrwYdZc",
+    "chapters": [
+      {
+        "name": "The Fundamentals of Habit Stacking",
+        "detail": "Habits are the compound interest of self-improvement. Getting 1% better every day makes you 37x better in a year."
+      },
+      {
+        "name": "Identity-Based Habits",
+        "detail": "Focus on who you want to become ('I am a software architect and disciplined investor') rather than arbitrary targets."
+      },
+      {
+        "name": "The 4 Laws of Behavior Change",
+        "detail": "(1) Make it Obvious, (2) Make it Attractive, (3) Make it Easy, (4) Make it Satisfying."
+      },
+      {
+        "name": "The Environment is the Invisible Hand",
+        "detail": "Design your physical and digital workspace so the productive choice is frictionless."
+      }
+    ],
+    "mentalModels": [
+      "The Aggregation of Marginal Gains",
+      "The Plateau of Latent Potential",
+      "Implementation Intentions (When X happens, I will do Y)",
+      "The 2-Minute Rule"
+    ],
+    "rules": [
+      "Set a non-negotiable 60-minute morning deep work block for technical architecture and reading.",
+      "Track daily reading habits visually with a simple habit checkmark.",
+      "Automate your financial and technical environments to remove friction."
+    ]
+  },
+  {
+    "order": 6,
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Technology / Math & Engineering",
+    "part": "Part 14: Computer Science and Software Engineering",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Master distributed systems, storage engines, consensus, replication, and scalability to dominate tier-1 software architecture.",
+    "youtube": "https://www.youtube.com/watch?v=ttWw_Vq7n8g",
+    "chapters": [
+      {
+        "name": "Reliability, Scalability & Maintainability",
+        "detail": "Measuring latency percentiles (p99, p99.9), handling load, and decoupling systems."
+      },
+      {
+        "name": "Data Models & Query Languages",
+        "detail": "Relational vs Document vs Graph models: understanding when schemas-on-read vs schemas-on-write excel."
+      },
+      {
+        "name": "Storage & Retrieval",
+        "detail": "LSM-Trees vs B-Trees, write-ahead logs, and indexes under the hood."
+      },
+      {
+        "name": "Distributed Data & Replication",
+        "detail": "Leader-follower replication, split-brain syndromes, quorum reads, and eventual consistency."
+      },
+      {
+        "name": "Transactions & Consensus",
+        "detail": "ACID vs BASE, serializability, two-phase commits, Paxos/Raft consensus algorithms."
+      }
+    ],
+    "mentalModels": [
+      "The CAP Theorem & PACELC",
+      "LSM-Tree vs B-Tree Storage Engines",
+      "Read Uncommitted to Serializable Isolation Levels",
+      "Event-Driven Architectures and Idempotency"
+    ],
+    "rules": [
+      "Master distributed systems trade-offs to dominate senior/staff engineering interviews.",
+      "Always design systems expecting hardware failures, network partitions, and clock drift.",
+      "Think in p99 latencies and data durability rather than happy-path functionality."
+    ]
+  },
+  {
+    "order": 7,
+    "title": "The Millionaire Fastlane",
+    "author": "MJ DeMarco",
+    "phase": "Phase 3: Fastlane Wealth & Digital Assets",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Escape the 40-year Slowlane. Wealth is built through the Law of Effection, CENTS framework, and decoupled systems.",
+    "youtube": "https://www.youtube.com/watch?v=XzUv_jF3XvQ",
+    "chapters": [
+      {
+        "name": "The Three Roads",
+        "detail": "The Sidewalk (living paycheck to paycheck), The Slowlane (trading 5 days of freedom for 2 days of weekend for 40 years), The Fastlane (building scalable business systems)."
+      },
+      {
+        "name": "The Law of Effection",
+        "detail": "The more lives you affect in scale or magnitude, the wealthier you become. Wealth = Net Profit + Asset Value."
+      },
+      {
+        "name": "The CENTS Framework",
+        "detail": "A Fastlane business must satisfy: Control, Entry (high barrier), Need, Time (detached from your hours), Scale."
+      },
+      {
+        "name": "Building Money Trees",
+        "detail": "Rental systems, computer/software systems, content systems, distribution systems that produce cash flow 24/7."
+      }
+    ],
+    "mentalModels": [
+      "The Law of Effection (Scale x Magnitude)",
+      "The CENTS Business Test",
+      "Producer vs Consumer Mindset",
+      "Trading Time vs Decoupled Wealth Systems"
+    ],
+    "rules": [
+      "Shift mindset from pure consumer/employee to producer of scalable software/services.",
+      "Never launch a business without high barriers to entry or scalability.",
+      "Reinvest income surpluses into compounding assets that generate perpetual cash flow."
+    ]
+  },
+  {
+    "order": 8,
+    "title": "Coffee Can Investing",
+    "author": "Saurabh Mukherjea, Rakshit Ranjan and Pranab Uniyal",
+    "phase": "Phase 4: Institutional Compounding & Equity",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 03: Indian Finance / Banking / Taxation and Insurance",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Buy clean Indian compounding machines (ROCE >15% + Revenue >10% for 10 years), eliminate churn, hold for a decade.",
+    "youtube": "https://www.youtube.com/watch?v=jW8jU8_J9k8",
+    "chapters": [
+      {
+        "name": "The Coffee Can Philosophy",
+        "detail": "Originating from Robert Kirby (1984): Buy high-quality compounding machines, put them in a coffee can, and forget about them for 10 years."
+      },
+      {
+        "name": "The Filtering Criteria",
+        "detail": "Revenue growth >10% per annum + Return on Capital Employed (ROCE) >15% every single year for 10 continuous years."
+      },
+      {
+        "name": "Corporate Governance & Accounting Traps",
+        "detail": "How Indian promoters cook books and siphon capital: avoiding value traps and debt-laden businesses."
+      },
+      {
+        "name": "The Cost of Portfolio Churn",
+        "detail": "Brokerage fees, short-term capital gains tax, and timing errors destroy 5-7% of annual returns. Low turnover is the ultimate secret."
+      }
+    ],
+    "mentalModels": [
+      "The Coffee Can Moat Filter (ROCE >15% + Revenue >10%)",
+      "Corporate Governance Forensics",
+      "The Power of Inactivity (Patience as a competitive edge)",
+      "Uninterrupted Compounding in Indian Franchises"
+    ],
+    "rules": [
+      "Build a core equity portfolio of pristine Indian compounding machines (Asian Paints, Titan, HDFC Bank, TCS, Pidilite).",
+      "Never sell a Coffee Can stock because of short-term quarterly noise or macroeconomic panic.",
+      "Reinvest all dividends to harness explosive long-term compounding."
+    ]
+  },
+  {
+    "order": 9,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Business / Strategy & Execution",
+    "part": "Part 18: Career Capital / Productivity and Execution",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Intense, uninterrupted focus is the superpower of the modern knowledge economy. Eliminate attention residue.",
+    "youtube": "https://www.youtube.com/watch?v=gT_uS7Y5x6U",
+    "chapters": [
+      {
+        "name": "The Deep Work Hypothesis",
+        "detail": "To thrive in the new economy you need: (1) The ability to quickly master hard things, (2) The ability to produce at an elite level, in both quality and speed."
+      },
+      {
+        "name": "High-Quality Work Formula",
+        "detail": "Work Accomplished = Time Spent x Intensity of Focus. Multitasking leaves attention residue that cripples cognitive output."
+      },
+      {
+        "name": "The 4 Deep Work Philosophies",
+        "detail": "Monastic, Bimodal, Rhythmic, and Journalistic scheduling: choose the rhythm that fits your career."
+      },
+      {
+        "name": "Embracing Boredom & Quitting Social Media",
+        "detail": "Training the brain to resist instant dopamine hits and maintain sustained concentration."
+      }
+    ],
+    "mentalModels": [
+      "Attention Residue",
+      "The Law of Deep Productivity",
+      "The Shutdown Ritual",
+      "Deliberate Practice in Knowledge Work"
+    ],
+    "rules": [
+      "Schedule 2-4 hours of uninterrupted deep coding or study daily with zero notifications.",
+      "Eliminate phone checks during work intervals to prevent attention residue.",
+      "Execute a formal end-of-day shutdown ritual to disconnect and recharge cognitive stamina."
+    ]
+  },
+  {
+    "order": 10,
+    "title": "Poor Charlie's Almanack",
+    "author": "Charles T. Munger",
+    "phase": "Phase 5: Decision Science & Mastery",
+    "domain": "Decision Science & Thinking",
+    "part": "Part 01: Thinking / Learning & Decision-Making",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Build a multidisciplinary latticework of mental models; invert, stay in your circle of competence, manage incentives.",
+    "youtube": "https://www.youtube.com/watch?v=wX-rE9_f3lA",
+    "chapters": [
+      {
+        "name": "The Latticework of Mental Models",
+        "detail": "You must know the big ideas in the big disciplines and have them in your mind to make a system that you can use automatically. To a man with only a hammer, every problem looks like a nail."
+      },
+      {
+        "name": "Inversion ('Invert, Always Invert')",
+        "detail": "Instead of asking how to succeed, ask: 'What will guarantee failure?' and systematically avoid those things."
+      },
+      {
+        "name": "The Psychology of Human Misjudgment",
+        "detail": "The 25 cognitive tendencies that lead to catastrophic errors (Reward/Punishment bias, Consistency bias, Social Proof, Lollapalooza effect)."
+      },
+      {
+        "name": "Circle of Competence",
+        "detail": "Knowing the boundary of what you understand and refusing to step outside it. It is not how big your circle is; it is knowing where the perimeter lies."
+      }
+    ],
+    "mentalModels": [
+      "The Latticework of Mental Models",
+      "Inversion Principle",
+      "The Circle of Competence",
+      "The Lollapalooza Effect"
+    ],
+    "rules": [
+      "When evaluating an investment or life decision, invert: write down all the ways it can ruin you and avoid them.",
+      "Stay strictly within your circle of competence in business and investing.",
+      "Study human psychology to recognize when you and others are being blinded by incentives."
+    ]
+  },
+  {
+    "order": 11,
+    "title": "System Design Interview, Volume 1",
+    "author": "Alex Xu",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Technology / Math & Engineering",
+    "part": "Part 15: System Design / Cloud and Distributed Systems",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Concrete blueprints for designing rate limiters, distributed key-value stores, notification systems, and YouTube to pass tier-1 tech interviews.",
+    "youtube": "https://www.youtube.com/watch?v=bUHFg8CZFws",
+    "chapters": [
+      {
+        "name": "Scaling from Zero to Millions of Users",
+        "detail": "Vertical vs horizontal scaling, load balancing, database replication, caching tiers, and CDN distribution."
+      },
+      {
+        "name": "Back-of-the-Envelope Estimation",
+        "detail": "Powers of two, latency numbers every programmer should know, and throughput/storage sizing."
+      },
+      {
+        "name": "A 4-Step Framework for System Design",
+        "detail": "Step 1: Understand scope & requirements, Step 2: High-level design, Step 3: Design deep dive, Step 4: Wrap up & bottlenecks."
+      },
+      {
+        "name": "Designing Key-Value Stores & Rate Limiters",
+        "detail": "Token bucket vs leaking bucket algorithms, consistent hashing, and data partitioning."
+      }
+    ],
+    "mentalModels": [
+      "Consistent Hashing",
+      "Token Bucket Rate Limiting",
+      "Stateless Architecture Tiering",
+      "Back-of-the-Envelope Estimation"
+    ],
+    "rules": [
+      "Practice the 4-step interview framework weekly.",
+      "Memorize fundamental latency benchmarks (L1 cache vs RAM vs SSD vs Network).",
+      "Design every system with failure domains and caching in mind."
+    ]
+  },
+  {
+    "order": 12,
+    "title": "Money Works: A Rigorous Guide to Real Wealth in India",
+    "author": "Deepak Shenoy",
+    "phase": "Phase 4: Institutional Compounding & Equity",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The quantitative, modern guide to Indian stock markets, fixed income, real estate pitfalls, and building generational wealth from Capitalmind's founder.",
+    "youtube": "https://www.youtube.com/watch?v=N6U8_8X8Zk0",
+    "chapters": [
+      {
+        "name": "The Philosophy of Indian Wealth",
+        "detail": "Why high income without an investing framework dissolves into lifestyle inflation. Real return = Nominal Return - Inflation - Taxes."
+      },
+      {
+        "name": "Fixed Income Demystified",
+        "detail": "How debt funds work, yield-to-maturity, credit risk, and why FDs are tax-inefficient for high tax brackets."
+      },
+      {
+        "name": "Equity: The Real Wealth Multiplier",
+        "detail": "Navigating Indian bull and bear markets, drawdowns, and momentum vs value investing."
+      },
+      {
+        "name": "Real Estate Truths in India",
+        "detail": "The hidden costs of illiquidity, stamp duty, maintenance, and 2-3% rental yields."
+      }
+    ],
+    "mentalModels": [
+      "Real Return Equation (Post-Tax, Post-Inflation)",
+      "Yield-to-Maturity (YTM) vs Duration",
+      "Portfolio Rebalancing Discipline",
+      "Asymmetric Indian Equity Upside"
+    ],
+    "rules": [
+      "Calculate the true post-tax yield of all fixed income before locking funds.",
+      "Rebalance annually between equity and debt to capture volatility profits.",
+      "Never consider your residential primary home an investment asset."
+    ]
+  },
+  {
+    "order": 13,
+    "title": "MAKE: The Bootstrapper's Handbook",
+    "author": "Pieter Levels",
+    "phase": "Phase 3: Fastlane Wealth & Digital Assets",
+    "domain": "Business / Strategy & Execution",
+    "part": "Part 28: Micro-SaaS / Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "How an indie developer builds profitable, automated micro-SaaS and web applications generating $100K+/month with zero venture capital.",
+    "youtube": "https://www.youtube.com/watch?v=6reLWfZ_mAI",
+    "chapters": [
+      {
+        "name": "Idea & Validation",
+        "detail": "Solve your own problems. Build micro-tools that people are willing to pay for on day one."
+      },
+      {
+        "name": "Build (Fast & Simple Stack)",
+        "detail": "Don't over-engineer. Use vanilla JavaScript, HTML, PHP, or SQLite. Speed of shipping trumps modern framework bloat."
+      },
+      {
+        "name": "Launch & Distribution",
+        "detail": "Launch on Product Hunt, Hacker News, Twitter, and Reddit. Ship in public."
+      },
+      {
+        "name": "Monetization from Day 1",
+        "detail": "Charge immediately. Stripe subscription payments validate true product-market fit."
+      }
+    ],
+    "mentalModels": [
+      "Build in Public",
+      "The 12 Startups in 12 Months Experiment",
+      "Charge From Day One",
+      "Minimum Viable Stack"
+    ],
+    "rules": [
+      "Ship small digital tools that solve specific pain points for niche audiences.",
+      "Never spend more than 30 days building a prototype without charging users.",
+      "Automate customer support and server ops so products generate revenue while you sleep."
+    ]
+  },
+  {
+    "order": 14,
+    "title": "The Simple Path to Wealth",
+    "author": "JL Collins",
+    "phase": "Phase 4: Institutional Compounding & Equity",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 02: Personal Finance and Financial Independence",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The definitive manual of Financial Independence (FIRE): building 'F-You Money' through aggressive savings and total market index funds.",
+    "youtube": "https://www.youtube.com/watch?v=w_r_gV2k5-A",
+    "chapters": [
+      {
+        "name": "The Concept of F-You Money",
+        "detail": "Having enough invested capital that you never have to work for a bad boss or endure an unethical job."
+      },
+      {
+        "name": "Debt is Financial Cancer",
+        "detail": "Consumer debt and auto loans steal your future freedom. Eradicate all non-mortgage debt immediately."
+      },
+      {
+        "name": "The Index Fund Superpower",
+        "detail": "Broad-market index funds (VTSAX / Nifty 50) outperform 90%+ of professional active money managers over 15 years."
+      },
+      {
+        "name": "The 4% Safe Withdrawal Rule",
+        "detail": "When your invested liquid portfolio equals 25x your annual expenses, work becomes optional."
+      }
+    ],
+    "mentalModels": [
+      "F-You Money",
+      "The 25x Annual Expenses FIRE Rule",
+      "The Index Fund Inevitability",
+      "Market Panics as Black Friday Sales"
+    ],
+    "rules": [
+      "Target an aggressive 50%+ savings rate to achieve financial freedom within 10-12 years.",
+      "Never sell during market crashes; reframe panics as buying opportunities.",
+      "Keep your investment portfolio astonishingly simple: 1 or 2 low-cost index funds."
+    ]
+  },
+  {
+    "order": 15,
+    "title": "So Good They Can't Ignore You",
+    "author": "Cal Newport",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Business / Strategy & Execution",
+    "part": "Part 18: Career Capital / Productivity and Execution",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The passion hypothesis is dangerous. Career happiness comes from building rare and valuable career capital that yields autonomy and top compensation.",
+    "youtube": "https://www.youtube.com/watch?v=9_dE3nZ8H50",
+    "chapters": [
+      {
+        "name": "Ditch the Passion Trap",
+        "detail": "Telling young people to 'follow their passion' leads to chronic job dissatisfaction. Passion follows mastery, not the reverse."
+      },
+      {
+        "name": "The Craftsman Mindset",
+        "detail": "Focus on what value you are producing for the world rather than what the world is giving you."
+      },
+      {
+        "name": "Acquiring Career Capital",
+        "detail": "Rare and valuable skills (systems architecture, distributed computing, specialized domain depth) create real leverage."
+      },
+      {
+        "name": "Investing Career Capital in Autonomy",
+        "detail": "Once you have high leverage, trade it for control over your time, schedule, and projects."
+      }
+    ],
+    "mentalModels": [
+      "The Craftsman Mindset vs The Passion Mindset",
+      "Career Capital Theory",
+      "The First and Second Control Traps",
+      "The Law of Financial Viability"
+    ],
+    "rules": [
+      "Approach your daily software engineering work with the dedication of a master craftsman.",
+      "Deliberately acquire rare, hard-to-replace technical skills (deep backend/distributed systems).",
+      "Use your accumulated career capital to negotiate autonomy, equity, and higher compensation."
+    ]
+  },
+  {
+    "order": 16,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Technology / Math & Engineering",
+    "part": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The foundational roadmap to breaking through Big Tech and high-tier product company technical hiring bars.",
+    "youtube": "https://www.youtube.com/watch?v=aClxtDcdpsQ",
+    "chapters": [
+      {
+        "name": "The Interview Process Behind the Scenes",
+        "detail": "How Google, Amazon, Microsoft, and Meta evaluate problem-solving ability, communication, and code quality."
+      },
+      {
+        "name": "Big-O Time & Space Complexity",
+        "detail": "Intuitive mastery of time and space complexity analysis across algorithms."
+      },
+      {
+        "name": "Core Data Structures & Algorithms",
+        "detail": "Trees, Graphs, Hash Tables, Dynamic Programming, and Recursion patterns."
+      },
+      {
+        "name": "The 7-Step Problem Solving Approach",
+        "detail": "Listen carefully, draw examples, propose brute force, optimize, walk through code, test edge cases."
+      }
+    ],
+    "mentalModels": [
+      "Big-O Complexity Thinking",
+      "The 7-Step Algorithmic Problem Solving Protocol",
+      "Space-Time Trade-offs",
+      "Pattern Matching (Two Pointers, Sliding Window, BFS/DFS)"
+    ],
+    "rules": [
+      "Solve 1-2 algorithmic problems daily until core patterns are second nature.",
+      "Always communicate your thought process aloud before writing code.",
+      "Never stop at the brute force solution; optimize using hash tables or binary search."
+    ]
+  },
+  {
+    "order": 17,
+    "title": "Early Retirement Extreme",
+    "author": "Jacob Lund Fisker",
+    "phase": "Phase 3: Fastlane Wealth & Digital Assets",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "A systems-engineering approach to radical financial independence: 75%+ savings rates, resilience, and retiring in under 5-10 years.",
+    "youtube": "https://www.youtube.com/watch?v=9E4y5F-mG90",
+    "chapters": [
+      {
+        "name": "A Systems View of Life",
+        "detail": "Modern consumer society is designed to keep employees in perpetual debt and dependency. Treat your life as an interconnected system."
+      },
+      {
+        "name": "Renaissance Man / Polymath Skills",
+        "detail": "Specialization is for insects. Learn cooking, repairing, coding, investing, and fitness to slash living costs to near zero."
+      },
+      {
+        "name": "The Mathematical Physics of FIRE",
+        "detail": "If you save 75% of your income, you work 1 year to fund 3 years of living. Independence is achieved in 5 years."
+      },
+      {
+        "name": "Modular Resilience",
+        "detail": "Eliminate recurring monthly liabilities and build self-reinforcing systems of capital and capability."
+      }
+    ],
+    "mentalModels": [
+      "The Renaissance Polymath vs The Specialized Wage Slave",
+      "Savings Rate as Financial Velocity",
+      "The Web of Goals",
+      "Decoupling Well-Being from Consumption"
+    ],
+    "rules": [
+      "View every ongoing recurring subscription or EMI as a barrier to freedom.",
+      "Master the math: savings rate determines years to retirement far more than portfolio alpha.",
+      "Build self-reliance across multiple domains outside your corporate job."
+    ]
+  },
+  {
+    "order": 18,
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "phase": "Phase 4: Institutional Compounding & Equity",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 04: Investment Philosophy and Portfolio Management",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The foundational bible of value investing: Margin of Safety, Mr. Market, and protecting principal against speculative mania.",
+    "youtube": "https://www.youtube.com/watch?v=npqyPJnC4gU",
+    "chapters": [
+      {
+        "name": "Investment vs. Speculation",
+        "detail": "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return."
+      },
+      {
+        "name": "The Investor and Market Fluctuations (Mr. Market)",
+        "detail": "Mr. Market is your servant, not your guide. He offers you buy and sell prices daily; take advantage of his manic-depressive moods."
+      },
+      {
+        "name": "The Defensive Investor",
+        "detail": "Dollar-cost averaging into high-grade equities and bonds without trying to predict market tops or bottoms."
+      },
+      {
+        "name": "Margin of Safety: The Central Concept",
+        "detail": "Never pay full price; always demand a cushion that absorbs bad luck, errors in judgment, and recessions."
+      }
+    ],
+    "mentalModels": [
+      "Mr. Market Allegory",
+      "Margin of Safety",
+      "Defensive vs Enterprising Investor",
+      "Intrinsic Value vs Market Price"
+    ],
+    "rules": [
+      "Never buy a stock without a calculated margin of safety relative to intrinsic value.",
+      "Treat market corrections as emotional bargains offered by Mr. Market.",
+      "Distinguish gambling/speculation from rigorous capital allocation."
+    ]
+  },
+  {
+    "order": 19,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "phase": "Phase 5: Decision Science & Mastery",
+    "domain": "Decision Science & Thinking",
+    "part": "Part 01: Thinking / Learning & Decision-Making",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The architecture of human cognition: System 1 (fast, emotional, biased) vs System 2 (slow, logical). Overcoming cognitive illusions in high-stakes decisions.",
+    "youtube": "https://www.youtube.com/watch?v=uqXVAo7dVRU",
+    "chapters": [
+      {
+        "name": "Two Systems of the Mind",
+        "detail": "System 1 operates automatically and effortlessly with biases; System 2 allocates attention to effortful mental operations."
+      },
+      {
+        "name": "Heuristics and Biases",
+        "detail": "Anchoring, Availability Heuristic, Representativeness, and What You See Is All There Is (WYSIATI)."
+      },
+      {
+        "name": "Overconfidence & The Illusion of Understanding",
+        "detail": "Hindsight bias makes past events seem predictable, creating dangerous illusions about our forecasting ability."
+      },
+      {
+        "name": "Prospect Theory & Loss Aversion",
+        "detail": "The psychological pain of losing $10,000 is twice as intense as the pleasure of gaining $10,000."
+      }
+    ],
+    "mentalModels": [
+      "System 1 vs System 2",
+      "Loss Aversion Asymmetry",
+      "WYSIATI (What You See Is All There Is)",
+      "The Planning Fallacy"
+    ],
+    "rules": [
+      "Engage System 2 before making major financial, technical, or career commitments.",
+      "Account for the Planning Fallacy: projects always take longer and cost more than estimated.",
+      "Recognize loss aversion when tempted to sell winning investments early or hold losers out of pride."
+    ]
+  },
+  {
+    "order": 20,
+    "title": "Mastery",
+    "author": "Robert Greene",
+    "phase": "Phase 5: Decision Science & Mastery",
+    "domain": "Decision Science & Thinking",
+    "part": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "The path to supreme power and world-class mastery: the Life's Task, rigorous apprenticeship, creative-active phase, and intuition.",
+    "youtube": "https://www.youtube.com/watch?v=iE3w8k1_ZpY",
+    "chapters": [
+      {
+        "name": "Discover Your Calling: The Life's Task",
+        "detail": "Connect with your primal inclinations and inner force. Avoid the false path dictated by parents or societal prestige."
+      },
+      {
+        "name": "Submit to Reality: The Ideal Apprenticeship",
+        "detail": "Value learning over money. Observe the rules of the environment, practice relentlessly, and undergo the trial by fire."
+      },
+      {
+        "name": "Absorb the Master's Power: Mentorship",
+        "detail": "Find mentors who can compress decades of experience into years, then ultimately transcend them."
+      },
+      {
+        "name": "The Creative-Active & Intuitive Phases",
+        "detail": "Synthesize disparate disciplines, challenge orthodoxy, and achieve intuitive mastery."
+      }
+    ],
+    "mentalModels": [
+      "The Life's Task",
+      "The Ideal Apprenticeship (Knowledge > Money in early twenties)",
+      "Social Intelligence as a Defense Weapon",
+      "Dimensional Thinking"
+    ],
+    "rules": [
+      "In your early twenties (age 24), choose assignments that maximize learning, systems mastery, and mentorship over comfortable corporate stagnation.",
+      "Endure the boring, repetitive phases of deep skill acquisition.",
+      "Develop social intelligence to navigate office politics and organizational incentives without becoming cynical."
+    ]
+  }
+]

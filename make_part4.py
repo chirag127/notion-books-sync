@@ -1,0 +1,103 @@
+import json
+
+P4 = [
+    {
+        "order": 16,
+        "title": "Cracking the Coding Interview",
+        "author": "Gayle Laakmann McDowell",
+        "phase": "Phase 2: Tech Career Leverage & 5x Income",
+        "domain": "Technology / Math & Engineering",
+        "part": "Part 26: Tech Career Leverage & Global Engineering Transition",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The foundational roadmap to breaking through Big Tech and high-tier product company technical hiring bars.",
+        "youtube": "https://www.youtube.com/watch?v=aClxtDcdpsQ",
+        "chapters": [
+            {"name": "The Interview Process Behind the Scenes", "detail": "How Google, Amazon, Microsoft, and Meta evaluate problem-solving ability, communication, and code quality."},
+            {"name": "Big-O Time & Space Complexity", "detail": "Intuitive mastery of time and space complexity analysis across algorithms."},
+            {"name": "Core Data Structures & Algorithms", "detail": "Trees, Graphs, Hash Tables, Dynamic Programming, and Recursion patterns."},
+            {"name": "The 7-Step Problem Solving Approach", "detail": "Listen carefully, draw examples, propose brute force, optimize, walk through code, test edge cases."}
+        ],
+        "mentalModels": ["Big-O Complexity Thinking", "The 7-Step Algorithmic Problem Solving Protocol", "Space-Time Trade-offs", "Pattern Matching (Two Pointers, Sliding Window, BFS/DFS)"],
+        "rules": ["Solve 1-2 algorithmic problems daily until core patterns are second nature.", "Always communicate your thought process aloud before writing code.", "Never stop at the brute force solution; optimize using hash tables or binary search."]
+    },
+    {
+        "order": 17,
+        "title": "Early Retirement Extreme",
+        "author": "Jacob Lund Fisker",
+        "phase": "Phase 3: Fastlane Wealth & Digital Assets",
+        "domain": "Wealth / Markets & Finance",
+        "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "A systems-engineering approach to radical financial independence: 75%+ savings rates, resilience, and retiring in under 5-10 years.",
+        "youtube": "https://www.youtube.com/watch?v=9E4y5F-mG90",
+        "chapters": [
+            {"name": "A Systems View of Life", "detail": "Modern consumer society is designed to keep employees in perpetual debt and dependency. Treat your life as an interconnected system."},
+            {"name": "Renaissance Man / Polymath Skills", "detail": "Specialization is for insects. Learn cooking, repairing, coding, investing, and fitness to slash living costs to near zero."},
+            {"name": "The Mathematical Physics of FIRE", "detail": "If you save 75% of your income, you work 1 year to fund 3 years of living. Independence is achieved in 5 years."},
+            {"name": "Modular Resilience", "detail": "Eliminate recurring monthly liabilities and build self-reinforcing systems of capital and capability."}
+        ],
+        "mentalModels": ["The Renaissance Polymath vs The Specialized Wage Slave", "Savings Rate as Financial Velocity", "The Web of Goals", "Decoupling Well-Being from Consumption"],
+        "rules": ["View every ongoing recurring subscription or EMI as a barrier to freedom.", "Master the math: savings rate determines years to retirement far more than portfolio alpha.", "Build self-reliance across multiple domains outside your corporate job."]
+    },
+    {
+        "order": 18,
+        "title": "The Intelligent Investor",
+        "author": "Benjamin Graham",
+        "phase": "Phase 4: Institutional Compounding & Equity",
+        "domain": "Wealth / Markets & Finance",
+        "part": "Part 04: Investment Philosophy and Portfolio Management",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The foundational bible of value investing: Margin of Safety, Mr. Market, and protecting principal against speculative mania.",
+        "youtube": "https://www.youtube.com/watch?v=npqyPJnC4gU",
+        "chapters": [
+            {"name": "Investment vs. Speculation", "detail": "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return."},
+            {"name": "The Investor and Market Fluctuations (Mr. Market)", "detail": "Mr. Market is your servant, not your guide. He offers you buy and sell prices daily; take advantage of his manic-depressive moods."},
+            {"name": "The Defensive Investor", "detail": "Dollar-cost averaging into high-grade equities and bonds without trying to predict market tops or bottoms."},
+            {"name": "Margin of Safety: The Central Concept", "detail": "Never pay full price; always demand a cushion that absorbs bad luck, errors in judgment, and recessions."}
+        ],
+        "mentalModels": ["Mr. Market Allegory", "Margin of Safety", "Defensive vs Enterprising Investor", "Intrinsic Value vs Market Price"],
+        "rules": ["Never buy a stock without a calculated margin of safety relative to intrinsic value.", "Treat market corrections as emotional bargains offered by Mr. Market.", "Distinguish gambling/speculation from rigorous capital allocation."]
+    },
+    {
+        "order": 19,
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "phase": "Phase 5: Decision Science & Mastery",
+        "domain": "Decision Science & Thinking",
+        "part": "Part 01: Thinking / Learning & Decision-Making",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The architecture of human cognition: System 1 (fast, emotional, biased) vs System 2 (slow, logical). Overcoming cognitive illusions in high-stakes decisions.",
+        "youtube": "https://www.youtube.com/watch?v=uqXVAo7dVRU",
+        "chapters": [
+            {"name": "Two Systems of the Mind", "detail": "System 1 operates automatically and effortlessly with biases; System 2 allocates attention to effortful mental operations."},
+            {"name": "Heuristics and Biases", "detail": "Anchoring, Availability Heuristic, Representativeness, and What You See Is All There Is (WYSIATI)."},
+            {"name": "Overconfidence & The Illusion of Understanding", "detail": "Hindsight bias makes past events seem predictable, creating dangerous illusions about our forecasting ability."},
+            {"name": "Prospect Theory & Loss Aversion", "detail": "The psychological pain of losing $10,000 is twice as intense as the pleasure of gaining $10,000."}
+        ],
+        "mentalModels": ["System 1 vs System 2", "Loss Aversion Asymmetry", "WYSIATI (What You See Is All There Is)", "The Planning Fallacy"],
+        "rules": ["Engage System 2 before making major financial, technical, or career commitments.", "Account for the Planning Fallacy: projects always take longer and cost more than estimated.", "Recognize loss aversion when tempted to sell winning investments early or hold losers out of pride."]
+    },
+    {
+        "order": 20,
+        "title": "Mastery",
+        "author": "Robert Greene",
+        "phase": "Phase 5: Decision Science & Mastery",
+        "domain": "Decision Science & Thinking",
+        "part": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The path to supreme power and world-class mastery: the Life's Task, rigorous apprenticeship, creative-active phase, and intuition.",
+        "youtube": "https://www.youtube.com/watch?v=iE3w8k1_ZpY",
+        "chapters": [
+            {"name": "Discover Your Calling: The Life's Task", "detail": "Connect with your primal inclinations and inner force. Avoid the false path dictated by parents or societal prestige."},
+            {"name": "Submit to Reality: The Ideal Apprenticeship", "detail": "Value learning over money. Observe the rules of the environment, practice relentlessly, and undergo the trial by fire."},
+            {"name": "Absorb the Master's Power: Mentorship", "detail": "Find mentors who can compress decades of experience into years, then ultimately transcend them."},
+            {"name": "The Creative-Active & Intuitive Phases", "detail": "Synthesize disparate disciplines, challenge orthodoxy, and achieve intuitive mastery."}
+        ],
+        "mentalModels": ["The Life's Task", "The Ideal Apprenticeship (Knowledge > Money in early twenties)", "Social Intelligence as a Defense Weapon", "Dimensional Thinking"],
+        "rules": ["In your early twenties (age 24), choose assignments that maximize learning, systems mastery, and mentorship over comfortable corporate stagnation.", "Endure the boring, repetitive phases of deep skill acquisition.", "Develop social intelligence to navigate office politics and organizational incentives without becoming cynical."]
+    }
+]
+
+with open("p4.json", "w", encoding="utf-8") as f:
+    json.dump(P4, f, indent=2)
+print("Part 4 written")

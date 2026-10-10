@@ -3598,5 +3598,1085 @@
     "partName": "Part 25: LITERATURE / BIOGRAPHY / CREATIVITY AND HUMAN NATURE",
     "priority": "HIGH",
     "domain": "Philosophy / Science & Humanities"
+  },
+  {
+    "id": 401,
+    "title": "The Software Engineer's Guidebook",
+    "author": "Gergely Orosz",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 402,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 403,
+    "title": "The Staff Engineer's Path",
+    "author": "Tanya Reilly",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 404,
+    "title": "Grokking Simplicity",
+    "author": "Eric Normand",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 405,
+    "title": "Building Mobile Apps at Scale",
+    "author": "Gergely Orosz",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 406,
+    "title": "A Guide to the Business Analysis Body of Knowledge (BABOK / CPQ Guide)",
+    "author": "IIBA",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 407,
+    "title": "Software Engineering at Google",
+    "author": "Titus Winters, Tom Manshreck and Hyrum Wright",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 408,
+    "title": "The Missing Readme: A Guide for the New Software Engineer",
+    "author": "Chris Riccomini and Dmitriy Ryaboy",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 409,
+    "title": "Righting Software",
+    "author": "Juval Löwy",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 410,
+    "title": "Building Evolutionary Architectures",
+    "author": "Neal Ford, Rebecca Parsons and Patrick Kua",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 411,
+    "title": "Working in Public: The Making and Maintenance of Open Source",
+    "author": "Nadia Eghbal",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 412,
+    "title": "Ask Your Developer",
+    "author": "Jeff Lawson",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 413,
+    "title": "The Tech Resume Inside Out",
+    "author": "Gergely Orosz",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 414,
+    "title": "Site Reliability Engineering: How Google Runs Production Systems",
+    "author": "Niall Richard Murphy et al.",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 415,
+    "title": "Accelerate: The Science of Lean Software and DevOps",
+    "author": "Nicole Forsgren et al.",
+    "partNumber": 26,
+    "partName": "Part 26: Tech Career Leverage & Global Engineering Transition",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 416,
+    "title": "The Millionaire Fastlane",
+    "author": "MJ DeMarco",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 417,
+    "title": "Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship",
+    "author": "MJ DeMarco",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 418,
+    "title": "The Great Rat Race Escape",
+    "author": "MJ DeMarco",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 419,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 420,
+    "title": "How to Get Rich",
+    "author": "Felix Dennis",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 421,
+    "title": "Early Retirement Extreme",
+    "author": "Jacob Lund Fisker",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 422,
+    "title": "Your Money: The Missing Manual",
+    "author": "J.D. Roth",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 423,
+    "title": "Quit Like a Millionaire",
+    "author": "Kristy Shen and Bryce Leung",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 424,
+    "title": "Work Optional: Retire Early the Non-Penny-Pinching Way",
+    "author": "Tanja Hester",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 425,
+    "title": "Meet the Frugalwoods",
+    "author": "Elizabeth Willard Thames",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 426,
+    "title": "Financial Freedom",
+    "author": "Grant Sabatier",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 427,
+    "title": "Money Works: A Rigorous Guide to Real Wealth in India",
+    "author": "Deepak Shenoy",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 428,
+    "title": "From the Rat Race to Financial Freedom",
+    "author": "Manoj Arora",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 429,
+    "title": "The Joys of Compounding",
+    "author": "Gautam Baid",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 430,
+    "title": "Bulls, Bears and Other Beasts",
+    "author": "Santosh Nair",
+    "partNumber": 27,
+    "partName": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 431,
+    "title": "MAKE: The Bootstrapper's Handbook",
+    "author": "Pieter Levels",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 432,
+    "title": "The SaaS Playbook",
+    "author": "Rob Walling",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 433,
+    "title": "Start Small, Stay Awesome",
+    "author": "Rob Walling",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 434,
+    "title": "The Embedded Entrepreneur",
+    "author": "Arvid Kahl",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 435,
+    "title": "Zero to Sold",
+    "author": "Arvid Kahl",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 436,
+    "title": "Show Your Work!",
+    "author": "Austin Kleon",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 437,
+    "title": "Steal Like an Artist",
+    "author": "Austin Kleon",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 438,
+    "title": "The Minimalist Entrepreneur",
+    "author": "Sahil Lavingia",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 439,
+    "title": "Just F***ing Ship",
+    "author": "Amy Hoy",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 440,
+    "title": "Deploy Empathy",
+    "author": "Michele Hansen",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 441,
+    "title": "Content Inc.",
+    "author": "Joe Pulizzi",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 442,
+    "title": "Traction: How Any Startup Can Achieve Explosive Customer Growth",
+    "author": "Gabriel Weinberg and Justin Mares",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 443,
+    "title": "Hooked: How to Build Habit-Forming Products",
+    "author": "Nir Eyal",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 444,
+    "title": "Subscribed: Why the Subscription Model Will Be Your Company's Future",
+    "author": "Tien Tzuo",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 445,
+    "title": "Find Your Yellow Car",
+    "author": "Christian Busch",
+    "partNumber": 28,
+    "partName": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Business / Strategy & Execution"
+  },
+  {
+    "id": 446,
+    "title": "The Art of Wealth Creation in India",
+    "author": "Ramesh Damani",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 447,
+    "title": "Masterclass with Super-Investors",
+    "author": "Vishal Mittal and Saurabh Basrar",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 448,
+    "title": "Of Bulls, Bears and Morons",
+    "author": "Ravi Subramanian",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 449,
+    "title": "How to Avoid Loss and Earn Consistently in the Stock Market",
+    "author": "Prasenjit Paul",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 450,
+    "title": "Fundamental Analysis for Investors",
+    "author": "Raghu Palat",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 451,
+    "title": "Security Analysis and Portfolio Management",
+    "author": "Prasanna Chandra",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 452,
+    "title": "Valuation of Companies",
+    "author": "Aswath Damodaran",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 453,
+    "title": "Common Sense on Mutual Funds",
+    "author": "John C. Bogle",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 454,
+    "title": "Pioneering Portfolio Management",
+    "author": "David F. Swensen",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 455,
+    "title": "Unconventional Success",
+    "author": "David F. Swensen",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 456,
+    "title": "The Education of a Value Investor",
+    "author": "Guy Spier",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 457,
+    "title": "Richer, Wiser, Happier",
+    "author": "William Green",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 458,
+    "title": "What Works on Wall Street",
+    "author": "James P. O'Shaughnessy",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 459,
+    "title": "Quantitative Value",
+    "author": "Wesley R. Gray and Tobias E. Carlisle",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 460,
+    "title": "Deep Value",
+    "author": "Tobias E. Carlisle",
+    "partNumber": 29,
+    "partName": "Part 29: Indian Equity Masters & Institutional Wealth Playbooks",
+    "priority": "HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 461,
+    "title": "Mastery",
+    "author": "Robert Greene",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 462,
+    "title": "The 33 Strategies of War",
+    "author": "Robert Greene",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 463,
+    "title": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 464,
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 465,
+    "title": "Never Finished",
+    "author": "David Goggins",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 466,
+    "title": "Ego Is the Enemy",
+    "author": "Ryan Holiday",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 467,
+    "title": "The Obstacle Is the Way",
+    "author": "Ryan Holiday",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 468,
+    "title": "Stillness Is the Key",
+    "author": "Ryan Holiday",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 469,
+    "title": "Courage Is Calling",
+    "author": "Ryan Holiday",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 470,
+    "title": "Discipline Is Destiny",
+    "author": "Ryan Holiday",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 471,
+    "title": "Courage to Be Disliked",
+    "author": "Ichiro Kishimi and Fumitake Koga",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 472,
+    "title": "The Courage to Be Happy",
+    "author": "Ichiro Kishimi and Fumitake Koga",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 473,
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 474,
+    "title": "Beyond Order",
+    "author": "Jordan B. Peterson",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 475,
+    "title": "Four Thousand Weeks: Time Management for Mortals",
+    "author": "Oliver Burkeman",
+    "partNumber": 30,
+    "partName": "Part 30: Quarter-Life Mastery & High-Performance Mindset",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Decision Science & Thinking"
+  },
+  {
+    "id": 476,
+    "title": "AI Engineering: Building Applications with Foundation Models",
+    "author": "Chip Huyen",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 477,
+    "title": "The LLM Engineer's Handbook",
+    "author": "Paul Iusztin and Maxime Labonne",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 478,
+    "title": "Co-Intelligence: Living and Working with AI",
+    "author": "Ethan Mollick",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 479,
+    "title": "Building LLMs for Production",
+    "author": "Louis-François Bouchard",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 480,
+    "title": "The Agentic AI Bible",
+    "author": "Thomas R. Caldwell",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 481,
+    "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+    "author": "Karen Hao",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 482,
+    "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "author": "Yuval Noah Harari",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 483,
+    "title": "Chip War: The Fight for the World's Most Critical Technology",
+    "author": "Chris Miller",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 484,
+    "title": "The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma",
+    "author": "Mustafa Suleyman",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 485,
+    "title": "Read Write Own: Building the Next Era of the Internet",
+    "author": "Chris Dixon",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 486,
+    "title": "The Geek Way: The Radical Mindset that Drives Extraordinary Results",
+    "author": "Andrew McAfee",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 487,
+    "title": "Prompt Engineering for Generative AI",
+    "author": "James Phoenix and Mike Taylor",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 488,
+    "title": "Generative Deep Learning (2nd Edition)",
+    "author": "David Foster",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 489,
+    "title": "Machine Learning Design Patterns (Updated Edition)",
+    "author": "Valliappa Lakshmanan et al.",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 490,
+    "title": "AI First: The Blueprint for Success in the AI Era",
+    "author": "Ash Fontana",
+    "partNumber": 31,
+    "partName": "Part 31: 2025-2026 Modern AI Engineering & Production LLMs",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Technology / Math & Engineering"
+  },
+  {
+    "id": 491,
+    "title": "The Algebra of Wealth: A Simple Formula for Financial Security",
+    "author": "Scott Galloway",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 492,
+    "title": "Same as Ever: A Guide to What Never Changes",
+    "author": "Morgan Housel",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 493,
+    "title": "Slow Productivity: The Lost Art of Accomplishment Without Burnout",
+    "author": "Cal Newport",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 494,
+    "title": "Clear Thinking: Turning Ordinary Moments into Extraordinary Results",
+    "author": "Shane Parrish",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 495,
+    "title": "Fluke: Chance, Chaos, and Why Everything We Do Matters",
+    "author": "Brian Klaas",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 496,
+    "title": "Supercommunicators: How to Unlock the Secret Language of Connection",
+    "author": "Charles Duhigg",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 497,
+    "title": "Right Kind of Wrong: The Science of Failing Well",
+    "author": "Amy Edmondson",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 498,
+    "title": "Hidden Potential: The Science of Achieving Greater Things",
+    "author": "Adam Grant",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 499,
+    "title": "Unreasonable Hospitality",
+    "author": "Will Guidara",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 500,
+    "title": "The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling of a Wall Street Legend",
+    "author": "Rob Copeland",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 501,
+    "title": "Going Infinite: The Rise and Fall of a New Tycoon",
+    "author": "Michael Lewis",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 502,
+    "title": "Elon Musk",
+    "author": "Walter Isaacson",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 503,
+    "title": "Number Go Up: Inside Crypto's Wild Rise and Staggering Fall",
+    "author": "Zeke Faux",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 504,
+    "title": "Unscripted: The Great Rat Race Escape",
+    "author": "MJ DeMarco",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 505,
+    "title": "The Art of Clear Thinking",
+    "author": "Hasard Lee",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 506,
+    "title": "Die with Zero: Getting All You Can from Your Money and Your Life",
+    "author": "Bill Perkins",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 507,
+    "title": "The Psychology of Money: Practical Exercises",
+    "author": "Morgan Housel",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 508,
+    "title": "Building a Second Brain (Hardcover Edition)",
+    "author": "Tiago Forte",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 509,
+    "title": "Feel-Good Productivity",
+    "author": "Ali Abdaal",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 510,
+    "title": "Outlive: The Science and Art of Longevity",
+    "author": "Peter Attia",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 511,
+    "title": "Ultra-Processed People",
+    "author": "Chris van Tulleken",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 512,
+    "title": "Doppelganger: A Trip into the Mirror World",
+    "author": "Naomi Klein",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 513,
+    "title": "Determined: A Science of Life Without Free Will",
+    "author": "Robert M. Sapolsky",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 514,
+    "title": "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity",
+    "author": "Daron Acemoglu and Simon Johnson",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 515,
+    "title": "Paved Paradise: How Parking Explains the World",
+    "author": "Henry Grabar",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 516,
+    "title": "Material World: The Six Raw Materials That Shape Modern Civilization",
+    "author": "Ed Conway",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 517,
+    "title": "The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI",
+    "author": "Fei-Fei Li",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 518,
+    "title": "Magic and Loss: The Internet as Art",
+    "author": "Virginia Heffernan",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 519,
+    "title": "The End of the World Is Just the Beginning",
+    "author": "Peter Zeihan",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
+  },
+  {
+    "id": 520,
+    "title": "Principles for Dealing with the Changing World Order",
+    "author": "Ray Dalio",
+    "partNumber": 32,
+    "partName": "Part 32: 2024-2026 Modern Wealth, Macro & High Performance",
+    "priority": "EXTREMELY HIGH",
+    "domain": "Wealth / Markets & Finance"
   }
 ]

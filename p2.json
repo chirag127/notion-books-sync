@@ -1,0 +1,206 @@
+[
+  {
+    "order": 6,
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Technology / Math & Engineering",
+    "part": "Part 14: Computer Science and Software Engineering",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Master distributed systems, storage engines, consensus, replication, and scalability to dominate tier-1 software architecture.",
+    "youtube": "https://www.youtube.com/watch?v=ttWw_Vq7n8g",
+    "chapters": [
+      {
+        "name": "Reliability, Scalability & Maintainability",
+        "detail": "Measuring latency percentiles (p99, p99.9), handling load, and decoupling systems."
+      },
+      {
+        "name": "Data Models & Query Languages",
+        "detail": "Relational vs Document vs Graph models: understanding when schemas-on-read vs schemas-on-write excel."
+      },
+      {
+        "name": "Storage & Retrieval",
+        "detail": "LSM-Trees vs B-Trees, write-ahead logs, and indexes under the hood."
+      },
+      {
+        "name": "Distributed Data & Replication",
+        "detail": "Leader-follower replication, split-brain syndromes, quorum reads, and eventual consistency."
+      },
+      {
+        "name": "Transactions & Consensus",
+        "detail": "ACID vs BASE, serializability, two-phase commits, Paxos/Raft consensus algorithms."
+      }
+    ],
+    "mentalModels": [
+      "The CAP Theorem & PACELC",
+      "LSM-Tree vs B-Tree Storage Engines",
+      "Read Uncommitted to Serializable Isolation Levels",
+      "Event-Driven Architectures and Idempotency"
+    ],
+    "rules": [
+      "Master distributed systems trade-offs to dominate senior/staff engineering interviews.",
+      "Always design systems expecting hardware failures, network partitions, and clock drift.",
+      "Think in p99 latencies and data durability rather than happy-path functionality."
+    ]
+  },
+  {
+    "order": 7,
+    "title": "The Millionaire Fastlane",
+    "author": "MJ DeMarco",
+    "phase": "Phase 3: Fastlane Wealth & Digital Assets",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Escape the 40-year Slowlane. Wealth is built through the Law of Effection, CENTS framework, and decoupled systems.",
+    "youtube": "https://www.youtube.com/watch?v=XzUv_jF3XvQ",
+    "chapters": [
+      {
+        "name": "The Three Roads",
+        "detail": "The Sidewalk (living paycheck to paycheck), The Slowlane (trading 5 days of freedom for 2 days of weekend for 40 years), The Fastlane (building scalable business systems)."
+      },
+      {
+        "name": "The Law of Effection",
+        "detail": "The more lives you affect in scale or magnitude, the wealthier you become. Wealth = Net Profit + Asset Value."
+      },
+      {
+        "name": "The CENTS Framework",
+        "detail": "A Fastlane business must satisfy: Control, Entry (high barrier), Need, Time (detached from your hours), Scale."
+      },
+      {
+        "name": "Building Money Trees",
+        "detail": "Rental systems, computer/software systems, content systems, distribution systems that produce cash flow 24/7."
+      }
+    ],
+    "mentalModels": [
+      "The Law of Effection (Scale x Magnitude)",
+      "The CENTS Business Test",
+      "Producer vs Consumer Mindset",
+      "Trading Time vs Decoupled Wealth Systems"
+    ],
+    "rules": [
+      "Shift mindset from pure consumer/employee to producer of scalable software/services.",
+      "Never launch a business without high barriers to entry or scalability.",
+      "Reinvest income surpluses into compounding assets that generate perpetual cash flow."
+    ]
+  },
+  {
+    "order": 8,
+    "title": "Coffee Can Investing",
+    "author": "Saurabh Mukherjea, Rakshit Ranjan and Pranab Uniyal",
+    "phase": "Phase 4: Institutional Compounding & Equity",
+    "domain": "Wealth / Markets & Finance",
+    "part": "Part 03: Indian Finance, Banking, Taxation and Insurance",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Buy clean Indian compounding machines (ROCE >15% + Revenue >10% for 10 years), eliminate churn, hold for a decade.",
+    "youtube": "https://www.youtube.com/watch?v=jW8jU8_J9k8",
+    "chapters": [
+      {
+        "name": "The Coffee Can Philosophy",
+        "detail": "Originating from Robert Kirby (1984): Buy high-quality compounding machines, put them in a coffee can, and forget about them for 10 years."
+      },
+      {
+        "name": "The Filtering Criteria",
+        "detail": "Revenue growth >10% per annum + Return on Capital Employed (ROCE) >15% every single year for 10 continuous years."
+      },
+      {
+        "name": "Corporate Governance & Accounting Traps",
+        "detail": "How Indian promoters cook books and siphon capital: avoiding value traps and debt-laden businesses."
+      },
+      {
+        "name": "The Cost of Portfolio Churn",
+        "detail": "Brokerage fees, short-term capital gains tax, and timing errors destroy 5-7% of annual returns. Low turnover is the ultimate secret."
+      }
+    ],
+    "mentalModels": [
+      "The Coffee Can Moat Filter (ROCE >15% + Revenue >10%)",
+      "Corporate Governance Forensics",
+      "The Power of Inactivity (Patience as a competitive edge)",
+      "Uninterrupted Compounding in Indian Franchises"
+    ],
+    "rules": [
+      "Build a core equity portfolio of pristine Indian compounding machines (Asian Paints, Titan, HDFC Bank, TCS, Pidilite).",
+      "Never sell a Coffee Can stock because of short-term quarterly noise or macroeconomic panic.",
+      "Reinvest all dividends to harness explosive long-term compounding."
+    ]
+  },
+  {
+    "order": 9,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "phase": "Phase 2: Tech Career Leverage & 5x Income",
+    "domain": "Business / Strategy & Execution",
+    "part": "Part 18: Career Capital, Productivity and Execution",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Intense, uninterrupted focus is the superpower of the modern knowledge economy. Eliminate attention residue.",
+    "youtube": "https://www.youtube.com/watch?v=gT_uS7Y5x6U",
+    "chapters": [
+      {
+        "name": "The Deep Work Hypothesis",
+        "detail": "To thrive in the new economy you need: (1) The ability to quickly master hard things, (2) The ability to produce at an elite level, in both quality and speed."
+      },
+      {
+        "name": "High-Quality Work Formula",
+        "detail": "Work Accomplished = Time Spent x Intensity of Focus. Multitasking leaves attention residue that cripples cognitive output."
+      },
+      {
+        "name": "The 4 Deep Work Philosophies",
+        "detail": "Monastic, Bimodal, Rhythmic, and Journalistic scheduling: choose the rhythm that fits your career."
+      },
+      {
+        "name": "Embracing Boredom & Quitting Social Media",
+        "detail": "Training the brain to resist instant dopamine hits and maintain sustained concentration."
+      }
+    ],
+    "mentalModels": [
+      "Attention Residue",
+      "The Law of Deep Productivity",
+      "The Shutdown Ritual",
+      "Deliberate Practice in Knowledge Work"
+    ],
+    "rules": [
+      "Schedule 2-4 hours of uninterrupted deep coding or study daily with zero notifications.",
+      "Eliminate phone checks during work intervals to prevent attention residue.",
+      "Execute a formal end-of-day shutdown ritual to disconnect and recharge cognitive stamina."
+    ]
+  },
+  {
+    "order": 10,
+    "title": "Poor Charlie's Almanack",
+    "author": "Charles T. Munger",
+    "phase": "Phase 5: Decision Science & Mastery",
+    "domain": "Decision Science & Thinking",
+    "part": "Part 01: Thinking / Learning & Decision-Making",
+    "priority": "EXTREMELY HIGH",
+    "thesis": "Build a multidisciplinary latticework of mental models; invert, stay in your circle of competence, manage incentives.",
+    "youtube": "https://www.youtube.com/watch?v=wX-rE9_f3lA",
+    "chapters": [
+      {
+        "name": "The Latticework of Mental Models",
+        "detail": "You must know the big ideas in the big disciplines and have them in your mind to make a system that you can use automatically. To a man with only a hammer, every problem looks like a nail."
+      },
+      {
+        "name": "Inversion ('Invert, Always Invert')",
+        "detail": "Instead of asking how to succeed, ask: 'What will guarantee failure?' and systematically avoid those things."
+      },
+      {
+        "name": "The Psychology of Human Misjudgment",
+        "detail": "The 25 cognitive tendencies that lead to catastrophic errors (Reward/Punishment bias, Consistency bias, Social Proof, Lollapalooza effect)."
+      },
+      {
+        "name": "Circle of Competence",
+        "detail": "Knowing the boundary of what you understand and refusing to step outside it. It is not how big your circle is; it is knowing where the perimeter lies."
+      }
+    ],
+    "mentalModels": [
+      "The Latticework of Mental Models",
+      "Inversion Principle",
+      "The Circle of Competence",
+      "The Lollapalooza Effect"
+    ],
+    "rules": [
+      "When evaluating an investment or life decision, invert: write down all the ways it can ruin you and avoid them.",
+      "Stay strictly within your circle of competence in business and investing.",
+      "Study human psychology to recognize when you and others are being blinded by incentives."
+    ]
+  }
+]

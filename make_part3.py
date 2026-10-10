@@ -1,0 +1,103 @@
+import json
+
+P3 = [
+    {
+        "order": 11,
+        "title": "System Design Interview, Volume 1",
+        "author": "Alex Xu",
+        "phase": "Phase 2: Tech Career Leverage & 5x Income",
+        "domain": "Technology / Math & Engineering",
+        "part": "Part 15: System Design, Cloud and Distributed Systems",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "Concrete blueprints for designing rate limiters, distributed key-value stores, notification systems, and YouTube to pass tier-1 tech interviews.",
+        "youtube": "https://www.youtube.com/watch?v=bUHFg8CZFws",
+        "chapters": [
+            {"name": "Scaling from Zero to Millions of Users", "detail": "Vertical vs horizontal scaling, load balancing, database replication, caching tiers, and CDN distribution."},
+            {"name": "Back-of-the-Envelope Estimation", "detail": "Powers of two, latency numbers every programmer should know, and throughput/storage sizing."},
+            {"name": "A 4-Step Framework for System Design", "detail": "Step 1: Understand scope & requirements, Step 2: High-level design, Step 3: Design deep dive, Step 4: Wrap up & bottlenecks."},
+            {"name": "Designing Key-Value Stores & Rate Limiters", "detail": "Token bucket vs leaking bucket algorithms, consistent hashing, and data partitioning."}
+        ],
+        "mentalModels": ["Consistent Hashing", "Token Bucket Rate Limiting", "Stateless Architecture Tiering", "Back-of-the-Envelope Estimation"],
+        "rules": ["Practice the 4-step interview framework weekly.", "Memorize fundamental latency benchmarks (L1 cache vs RAM vs SSD vs Network).", "Design every system with failure domains and caching in mind."]
+    },
+    {
+        "order": 12,
+        "title": "Money Works: A Rigorous Guide to Real Wealth in India",
+        "author": "Deepak Shenoy",
+        "phase": "Phase 4: Institutional Compounding & Equity",
+        "domain": "Wealth / Markets & Finance",
+        "part": "Part 27: The Fastlane & Unscripted Wealth Creation (FIRE Architecture)",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The quantitative, modern guide to Indian stock markets, fixed income, real estate pitfalls, and building generational wealth from Capitalmind's founder.",
+        "youtube": "https://www.youtube.com/watch?v=N6U8_8X8Zk0",
+        "chapters": [
+            {"name": "The Philosophy of Indian Wealth", "detail": "Why high income without an investing framework dissolves into lifestyle inflation. Real return = Nominal Return - Inflation - Taxes."},
+            {"name": "Fixed Income Demystified", "detail": "How debt funds work, yield-to-maturity, credit risk, and why FDs are tax-inefficient for high tax brackets."},
+            {"name": "Equity: The Real Wealth Multiplier", "detail": "Navigating Indian bull and bear markets, drawdowns, and momentum vs value investing."},
+            {"name": "Real Estate Truths in India", "detail": "The hidden costs of illiquidity, stamp duty, maintenance, and 2-3% rental yields."}
+        ],
+        "mentalModels": ["Real Return Equation (Post-Tax, Post-Inflation)", "Yield-to-Maturity (YTM) vs Duration", "Portfolio Rebalancing Discipline", "Asymmetric Indian Equity Upside"],
+        "rules": ["Calculate the true post-tax yield of all fixed income before locking funds.", "Rebalance annually between equity and debt to capture volatility profits.", "Never consider your residential primary home an investment asset."]
+    },
+    {
+        "order": 13,
+        "title": "MAKE: The Bootstrapper's Handbook",
+        "author": "Pieter Levels",
+        "phase": "Phase 3: Fastlane Wealth & Digital Assets",
+        "domain": "Business / Strategy & Execution",
+        "part": "Part 28: Micro-SaaS, Bootstrapping & Independent Digital Assets",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "How an indie developer builds profitable, automated micro-SaaS and web applications generating $100K+/month with zero venture capital.",
+        "youtube": "https://www.youtube.com/watch?v=6reLWfZ_mAI",
+        "chapters": [
+            {"name": "Idea & Validation", "detail": "Solve your own problems. Build micro-tools that people are willing to pay for on day one."},
+            {"name": "Build (Fast & Simple Stack)", "detail": "Don't over-engineer. Use vanilla JavaScript, HTML, PHP, or SQLite. Speed of shipping trumps modern framework bloat."},
+            {"name": "Launch & Distribution", "detail": "Launch on Product Hunt, Hacker News, Twitter, and Reddit. Ship in public."},
+            {"name": "Monetization from Day 1", "detail": "Charge immediately. Stripe subscription payments validate true product-market fit."}
+        ],
+        "mentalModels": ["Build in Public", "The 12 Startups in 12 Months Experiment", "Charge From Day One", "Minimum Viable Stack"],
+        "rules": ["Ship small digital tools that solve specific pain points for niche audiences.", "Never spend more than 30 days building a prototype without charging users.", "Automate customer support and server ops so products generate revenue while you sleep."]
+    },
+    {
+        "order": 14,
+        "title": "The Simple Path to Wealth",
+        "author": "JL Collins",
+        "phase": "Phase 4: Institutional Compounding & Equity",
+        "domain": "Wealth / Markets & Finance",
+        "part": "Part 02: Personal Finance and Financial Independence",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The definitive manual of Financial Independence (FIRE): building 'F-You Money' through aggressive savings and total market index funds.",
+        "youtube": "https://www.youtube.com/watch?v=w_r_gV2k5-A",
+        "chapters": [
+            {"name": "The Concept of F-You Money", "detail": "Having enough invested capital that you never have to work for a bad boss or endure an unethical job."},
+            {"name": "Debt is Financial Cancer", "detail": "Consumer debt and auto loans steal your future freedom. Eradicate all non-mortgage debt immediately."},
+            {"name": "The Index Fund Superpower", "detail": "Broad-market index funds (VTSAX / Nifty 50) outperform 90%+ of professional active money managers over 15 years."},
+            {"name": "The 4% Safe Withdrawal Rule", "detail": "When your invested liquid portfolio equals 25x your annual expenses, work becomes optional."}
+        ],
+        "mentalModels": ["F-You Money", "The 25x Annual Expenses FIRE Rule", "The Index Fund Inevitability", "Market Panics as Black Friday Sales"],
+        "rules": ["Target an aggressive 50%+ savings rate to achieve financial freedom within 10-12 years.", "Never sell during market crashes; reframe panics as buying opportunities.", "Keep your investment portfolio astonishingly simple: 1 or 2 low-cost index funds."]
+    },
+    {
+        "order": 15,
+        "title": "So Good They Can't Ignore You",
+        "author": "Cal Newport",
+        "phase": "Phase 2: Tech Career Leverage & 5x Income",
+        "domain": "Business / Strategy & Execution",
+        "part": "Part 18: Career Capital, Productivity and Execution",
+        "priority": "EXTREMELY HIGH",
+        "thesis": "The passion hypothesis is dangerous. Career happiness comes from building rare and valuable career capital that yields autonomy and top compensation.",
+        "youtube": "https://www.youtube.com/watch?v=9_dE3nZ8H50",
+        "chapters": [
+            {"name": "Ditch the Passion Trap", "detail": "Telling young people to 'follow their passion' leads to chronic job dissatisfaction. Passion follows mastery, not the reverse."},
+            {"name": "The Craftsman Mindset", "detail": "Focus on what value you are producing for the world rather than what the world is giving you."},
+            {"name": "Acquiring Career Capital", "detail": "Rare and valuable skills (systems architecture, distributed computing, specialized domain depth) create real leverage."},
+            {"name": "Investing Career Capital in Autonomy", "detail": "Once you have high leverage, trade it for control over your time, schedule, and projects."}
+        ],
+        "mentalModels": ["The Craftsman Mindset vs The Passion Mindset", "Career Capital Theory", "The First and Second Control Traps", "The Law of Financial Viability"],
+        "rules": ["Approach your daily software engineering work with the dedication of a master craftsman.", "Deliberately acquire rare, hard-to-replace technical skills (deep backend/distributed systems).", "Use your accumulated career capital to negotiate autonomy, equity, and higher compensation."]
+    }
+]
+
+with open("p3.json", "w", encoding="utf-8") as f:
+    json.dump(P3, f, indent=2)
+print("Part 3 written")
