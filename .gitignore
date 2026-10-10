@@ -1,3 +1,7 @@
 node_modules/
 .env
+key.txt
+*.key
 *.log
+scratch/
+
