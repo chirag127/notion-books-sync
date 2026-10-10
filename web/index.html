@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chirag'\''s Lifetime Reading Curriculum | 400 Master Books</title>
+  <meta name="description" content="A priority-ordered lifetime reading curriculum of 400 master books across 25 specialized tracks, featuring deep AI chapter syntheses and instant Notion synchronization.">
+  
+  <!-- Modern Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="ambient-glow" id="ambientGlow"></div>
+
+  <div class="container">
+    <!-- Header & Hero Section -->
+    <header>
+      <div class="badge-pill">
+        <span></span> Chirag'\''s Master Knowledge Base
+      </div>
+      <h1>Lifetime Reading Curriculum</h1>
+      <p class="subtitle">
+        400 Masterworks across 25 Specialized Tracks & 6 Macro Domains — Curated with Priority Ordering, Deep AI Chapter Syntheses, and Real-Time Notion Sync.
+      </p>
+
+      <!-- Live Stats Bento Grid -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-value" id="statTotalBooks">400</div>
+          <div class="stat-label">Total Curriculum Books</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">25</div>
+          <div class="stat-label">Specialized Tracks</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">6</div>
+          <div class="stat-label">Intellectual Domains</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="statExtremelyHigh">112</div>
+          <div class="stat-label">Extremely High Priority</div>
+        </div>
+      </div>
+
+      <!-- Notion Workspace Connected Banner -->
+      <div class="notion-banner">
+        <div class="notion-banner-left">
+          <div class="notion-icon-box">📚</div>
+          <div>
+            <div class="notion-title">Connected to Your Notion Workspace</div>
+            <div class="notion-desc">Database ID: <code>3f5f70b927a4800e...</code> • Synced across your laptops and mobile phone</div>
+          </div>
+        </div>
+        <a href="https://app.notion.com/p/Books-Library-3f5f70b927a480559a8ecd72ee9a2b7a" target="_blank" rel="noopener noreferrer" class="btn-notion">
+          Open in Notion App ↗
+        </a>
+      </div>
+    </header>
+
+    <!-- Controls & Filter Section -->
+    <section class="controls-section">
+      <div class="search-row">
+        <div class="search-bar">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="Search 400 books by title, author, keyword, or #ID...">
+        </div>
+        <select id="partSelect" class="dropdown-filter">
+          <option value="ALL">All 25 Specialized Tracks</option>
+        </select>
+        <select id="prioritySelect" class="dropdown-filter">
+          <option value="ALL">All Priorities</option>
+          <option value="EXTREMELY HIGH">Extremely High</option>
+          <option value="HIGH">High</option>
+          <option value="MEDIUM">Medium</option>
+        </select>
+      </div>
+
+      <!-- 6 Macro Domain Filter Tabs -->
+      <div class="domain-tabs" id="domainTabs">
+        <button class="domain-tab active" data-domain="ALL">All Domains (400)</button>
+        <button class="domain-tab" data-domain="Decision Science & Thinking">🧠 Decision Science & Thinking</button>
+        <button class="domain-tab" data-domain="Wealth / Markets & Finance">💰 Wealth & Finance</button>
+        <button class="domain-tab" data-domain="Business / Strategy & Execution">📈 Business & Strategy</button>
+        <button class="domain-tab" data-domain="Technology / Math & Engineering">⚡ Tech, Math & AI</button>
+        <button class="domain-tab" data-domain="Economics / Policy & Society">🌐 Economics & Society</button>
+        <button class="domain-tab" data-domain="Philosophy / Science & Humanities">🏛️ Philosophy & Science</button>
+      </div>
+    </section>
+
+    <!-- Books Display Grid -->
+    <main>
+      <div class="books-grid" id="booksGrid">
+        <!-- Dynamically rendered via app.js -->
+      </div>
+    </main>
+  </div>
+
+  <!-- Book Reader Drawer / Modal -->
+  <div class="modal-overlay" id="bookModal">
+    <div class="modal-container">
+      <button class="btn-close-modal" id="btnCloseModal">✕</button>
+      <div class="modal-header">
+        <div class="modal-cover-wrap" id="modalCoverContainer">
+          <!-- Dynamic Cover -->
+        </div>
+        <div class="modal-info">
+          <div class="badge-pill" id="modalBadge">#001 • EXTREMELY HIGH</div>
+          <h2 class="modal-title" id="modalTitle">The Psychology of Money</h2>
+          <div class="modal-author" id="modalAuthor">Morgan Housel</div>
+          <div class="part-tag" id="modalPart">Part 01: Thinking, Learning and Decision-Making</div>
+          <div class="modal-actions">
+            <a href="#" id="modalNotionLink" target="_blank" rel="noopener noreferrer" class="btn-notion">
+              Open in Notion ↗
+            </a>
+            <a href="#" id="modalGoogleLink" target="_blank" rel="noopener noreferrer" class="btn-read-notes" style="display: inline-flex; align-items: center;">
+              Google Books ↗
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="modal-body" id="modalBody">
+        <!-- Deep AI Chapter Synthesis injected here -->
+      </div>
+    </div>
+  </div>
+
+  <script src="books_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

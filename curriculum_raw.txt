@@ -1,0 +1,474 @@
+PART 01 — THINKING, LEARNING AND DECISION-MAKING
+PRIORITY: EXTREMELY HIGH
+1. The Psychology of Money — Morgan Housel
+2. Thinking, Fast and Slow — Daniel Kahneman
+3. The Scout Mindset — Julia Galef
+4. Superforecasting — Philip E. Tetlock and Dan Gardner
+5. Thinking in Bets — Annie Duke
+6. Clear Thinking — Shane Parrish
+7. The Great Mental Models, Volume 1 — Shane Parrish et al.
+8. Poor Charlie's Almanack — Charles T. Munger
+9. Seeking Wisdom — Peter Bevelin
+10. How to Read a Book — Mortimer J. Adler and Charles Van Doren
+11. Make It Stick — Peter C. Brown, Henry L. Roediger III and Mark A. McDaniel
+12. A Mind for Numbers — Barbara Oakley
+13. Ultralearning — Scott H. Young
+14. Peak — Anders Ericsson and Robert Pool
+15. Range — David Epstein
+16. The Art of Thinking Clearly — Rolf Dobelli
+
+PART 02 — PERSONAL FINANCE AND FINANCIAL INDEPENDENCE
+PRIORITY: EXTREMELY HIGH
+17. Let's Talk Money — Monika Halan
+18. The Richest Man in Babylon — George S. Clason
+19. The Millionaire Next Door — Thomas J. Stanley and William D. Danko
+20. The Total Money Makeover — Dave Ramsey
+21. Your Money or Your Life — Vicki Robin and Joe Dominguez
+22. I Will Teach You to Be Rich — Ramit Sethi
+23. The Simple Path to Wealth — JL Collins
+24. The Index Card — Helaine Olen and Harold Pollack
+25. The Bogleheads' Guide to Investing — Taylor Larimore et al.
+26. The Little Book of Common Sense Investing — John C. Bogle
+27. The Elements of Investing — Burton G. Malkiel and Charles D. Ellis
+28. The Behavior Gap — Carl Richards
+29. The Automatic Millionaire — David Bach
+30. The Wealthy Barber — David Chilton
+31. Die with Zero — Bill Perkins
+32. The Algebra of Wealth — Scott Galloway
+
+PART 03 — INDIAN FINANCE, BANKING, TAXATION AND INSURANCE
+PRIORITY: EXTREMELY HIGH
+33. Let's Talk Mutual Funds — Monika Halan
+34. Retire Rich — P. V. Subramanyam
+35. You Can Be Rich Too — P.V. Subramanyam and M. Pattabiraman
+36. Coffee Can Investing — Saurabh Mukherjea, Rakshit Ranjan and Pranab Uniyal
+37. The Unusual Billionaires — Saurabh Mukherjea
+38. Diamonds in the Dust — Saurabh Mukherjea
+39. The Thoughtful Investor — Basant Maheshwari
+40. Stocks to Riches — Parag Parikh
+41. Value Investing and Behavioral Finance — Parag Parikh
+42. Indian Mutual Funds Handbook — Sundar Sankaran
+43. The Richest Engineer — Abhishek Kumar
+44. Fundamentals of Financial Management — Prasanna Chandra
+45. Financial Management: Theory and Practice — Prasanna Chandra
+46. Indian Tax System and Tax Planning — Study using a current India-specific reference
+47. Insurance Principles and Practice — M. N. Mishra and S. B. Mishra
+48. Personal Finance for Dummies — Eric Tyson
+
+PART 04 — INVESTMENT PHILOSOPHY AND PORTFOLIO MANAGEMENT
+PRIORITY: HIGH
+49. The Intelligent Investor — Benjamin Graham
+50. Security Analysis — Benjamin Graham and David Dodd
+51. The Most Important Thing — Howard Marks
+52. Mastering the Market Cycle — Howard Marks
+53. The Essays of Warren Buffett — Lawrence A. Cunningham
+54. The Warren Buffett Way — Robert G. Hagstrom
+55. The Dhandho Investor — Mohnish Pabrai
+56. The Little Book That Beats the Market — Joel Greenblatt
+57. Common Stocks and Uncommon Profits — Philip A. Fisher
+58. One Up on Wall Street — Peter Lynch
+59. Beating the Street — Peter Lynch
+60. A Random Walk Down Wall Street — Burton G. Malkiel
+61. Expected Returns — Antti Ilmanen
+62. Investment Valuation — Aswath Damodaran
+63. The Four Pillars of Investing — William J. Bernstein
+64. Against the Gods — Peter L. Bernstein
+
+PART 05 — STOCK ANALYSIS, ACCOUNTING AND VALUATION
+PRIORITY: HIGH
+65. Financial Shenanigans — Howard M. Schilit et al.
+66. Financial Statement Analysis and Security Valuation — Stephen H. Penman
+67. The Interpretation of Financial Statements — Benjamin Graham
+68. Quality of Earnings — Thornton L. O'glove
+69. Warren Buffett and the Interpretation of Financial Statements — Mary Buffett and David Clark
+70. The Five Rules for Successful Stock Investing — Pat Dorsey
+71. The Little Book of Valuation — Aswath Damodaran
+72. Damodaran on Valuation — Aswath Damodaran
+73. The Dark Side of Valuation — Aswath Damodaran
+74. Accounting for Value — Stephen Penman
+75. Financial Statement Analysis — K. R. Subramanyam
+76. Valuation: Measuring and Managing the Value of Companies — McKinsey & Company
+77. Investment Banking — Joshua Rosenbaum and Joshua Pearl
+78. Applied Corporate Finance — Aswath Damodaran
+79. Corporate Finance — Jonathan Berk and Peter DeMarzo
+80. Financial Modeling — Simon Benninga
+
+PART 06 — BEHAVIORAL FINANCE, RISK AND FINANCIAL CRISES
+PRIORITY: HIGH
+81. Fooled by Randomness — Nassim Nicholas Taleb
+82. The Black Swan — Nassim Nicholas Taleb
+83. Antifragile — Nassim Nicholas Taleb
+84. Skin in the Game — Nassim Nicholas Taleb
+85. Against the Gods — Peter L. Bernstein
+86. When Genius Failed — Roger Lowenstein
+87. The Big Short — Michael Lewis
+88. Liar's Poker — Michael Lewis
+89. The Man Who Solved the Market — Gregory Zuckerman
+90. More Money Than God — Sebastian Mallaby
+91. Irrational Exuberance — Robert J. Shiller
+92. Animal Spirits — George A. Akerlof and Robert J. Shiller
+93. Misbehaving — Richard H. Thaler
+94. The Undoing Project — Michael Lewis
+95. The Signal and the Noise — Nate Silver
+96. The Failure of Risk Management — Douglas W. Hubbard
+
+PART 07 — P2P LENDING, CREDIT AND FIXED INCOME
+PRIORITY: HIGH
+97. The Handbook of Fixed Income Securities — Frank J. Fabozzi
+98. Fixed Income Securities — Bruce Tuckman and Angel Serrat
+99. Bond Markets, Analysis, and Strategies — Frank J. Fabozzi
+100. The Fundamentals of Municipal Bonds — SIFMA
+101. The Economics of Money, Banking and Financial Markets — Frederic S. Mishkin
+102. The Bank Credit Analysis Handbook — Jonathan Golin and Philippe Delhaise
+103. Managing Credit Risk — John B. Caouette et al.
+104. Credit Risk Modeling — David Lando
+105. The Lending Club Story — Peter Renton
+106. The Economics of Crowdfunding — Douglas Cumming and Lars Hornuf
+107. Crowdfunding for Sustainable Entrepreneurship and Innovation — Edited Research
+108. Banker to the Poor — Muhammad Yunus
+109. The Price of Time — Edward Chancellor
+110. Manias, Panics, and Crashes — Charles P. Kindleberger and Robert Aliber
+111. The Ascent of Money — Niall Ferguson
+112. The House of Debt — Atif Mian and Amir Sufi
+
+PART 08 — REAL ESTATE AND PROPERTY INVESTING
+PRIORITY: MEDIUM
+113. The Book on Rental Property Investing — Brandon Turner
+114. The Book on Managing Rental Properties — Brandon and Heather Turner
+115. What Every Real Estate Investor Needs to Know About Cash Flow — Frank Gallinelli
+116. The Millionaire Real Estate Investor — Gary Keller et al.
+117. Real Estate Finance and Investments — William B. Brueggeman and Jeffrey D. Fisher
+118. Investing in REITs — Ralph L. Block
+119. The ABCs of Real Estate Investing — Ken McElroy
+120. The Book on Flipping Houses — J Scott
+121. Real Estate Investing for Dummies — Eric Tyson and Robert S. Griswold
+122. The Due Diligence Handbook for Commercial Real Estate — Brian Hennessey
+123. Mastering the Market Cycle — Howard Marks
+124. The Great Housing Bubble — Robert M. Hardaway
+125. Evicted — Matthew Desmond
+126. Order Without Design — Alain Bertaud
+127. Triumph of the City — Edward Glaeser
+128. The Death and Life of Great American Cities — Jane Jacobs
+
+PART 09 — ENTREPRENEURSHIP AND BUSINESS BUILDING
+PRIORITY: HIGH
+129. The Lean Startup — Eric Ries
+130. The E-Myth Revisited — Michael E. Gerber
+131. Zero to One — Peter Thiel and Blake Masters
+132. The Personal MBA — Josh Kaufman
+133. The Hard Thing About Hard Things — Ben Horowitz
+134. The Innovator's Dilemma — Clayton M. Christensen
+135. Good to Great — Jim Collins
+136. Built to Sell — John Warrillow
+137. The $100 Startup — Chris Guillebeau
+138. Company of One — Paul Jarvis
+139. The Startup Owner's Manual — Steve Blank and Bob Dorf
+140. The Four Steps to the Epiphany — Steve Blank
+141. Business Model Generation — Alexander Osterwalder and Yves Pigneur
+142. Value Proposition Design — Alexander Osterwalder et al.
+143. The Founder's Dilemmas — Noam Wasserman
+144. The Outsiders — William N. Thorndike
+
+PART 10 — SALES, MARKETING, NEGOTIATION AND DISTRIBUTION
+PRIORITY: HIGH
+145. Influence — Robert B. Cialdini
+146. Pre-Suasion — Robert B. Cialdini
+147. How to Win Friends and Influence People — Dale Carnegie
+148. Never Split the Difference — Chris Voss and Tahl Raz
+149. Getting to Yes — Roger Fisher, William Ury and Bruce Patton
+150. SPIN Selling — Neil Rackham
+151. The Challenger Sale — Matthew Dixon and Brent Adamson
+152. To Sell Is Human — Daniel H. Pink
+153. Positioning — Al Ries and Jack Trout
+154. Obviously Awesome — April Dunford
+155. This Is Marketing — Seth Godin
+156. Permission Marketing — Seth Godin
+157. Contagious — Jonah Berger
+158. Made to Stick — Chip Heath and Dan Heath
+159. Building a StoryBrand — Donald Miller
+160. The 1-Page Marketing Plan — Allan Dib
+
+PART 11 — STRATEGY, OPERATIONS AND COMPETITIVE ADVANTAGE
+PRIORITY: HIGH
+161. Competitive Strategy — Michael E. Porter
+162. Competitive Advantage — Michael E. Porter
+163. Playing to Win — A. G. Lafley and Roger L. Martin
+164. Blue Ocean Strategy — W. Chan Kim and Renée Mauborgne
+165. 7 Powers — Hamilton Helmer
+166. Understanding Michael Porter — Joan Magretta
+167. The Goal — Eliyahu M. Goldratt
+168. The Toyota Way — Jeffrey K. Liker
+169. The Machine That Changed the World — James P. Womack et al.
+170. High Output Management — Andrew S. Grove
+171. The Effective Executive — Peter F. Drucker
+172. Measure What Matters — John Doerr
+173. The Fifth Discipline — Peter M. Senge
+174. The Practice of Management — Peter F. Drucker
+175. The Innovator's Solution — Clayton M. Christensen and Michael Raynor
+176. The Crux — Richard P. Rumelt
+
+PART 12 — ECONOMICS AND PUBLIC POLICY
+PRIORITY: HIGH
+177. Economics in One Lesson — Henry Hazlitt
+178. Basic Economics — Thomas Sowell
+179. The Undercover Economist — Tim Harford
+180. The Armchair Economist — Steven E. Landsburg
+181. Principles of Economics — N. Gregory Mankiw
+182. Intermediate Microeconomics — Hal R. Varian
+183. Macroeconomics — Olivier Blanchard
+184. Capitalism and Freedom — Milton Friedman
+185. Free to Choose — Milton and Rose Friedman
+186. The Wealth of Nations — Adam Smith
+187. The General Theory of Employment, Interest and Money — John Maynard Keynes
+188. Why Nations Fail — Daron Acemoglu and James A. Robinson
+189. The Mystery of Capital — Hernando de Soto
+190. The Great Transformation — Karl Polanyi
+191. The Road to Serfdom — F. A. Hayek
+192. Doughnut Economics — Kate Raworth
+
+PART 13 — MATHEMATICS, STATISTICS AND PROBABILITY
+PRIORITY: HIGH
+193. How Not to Be Wrong — Jordan Ellenberg
+194. The Art of Statistics — David Spiegelhalter
+195. Naked Statistics — Charles Wheelan
+196. Statistics — David Freedman, Robert Pisani and Roger Purves
+197. Introduction to Probability — Joseph K. Blitzstein and Jessica Hwang
+198. All of Statistics — Larry Wasserman
+199. Statistical Inference — George Casella and Roger L. Berger
+200. The Book of Why — Judea Pearl and Dana Mackenzie
+201. Causality — Judea Pearl
+202. Mathematics for Machine Learning — Marc Peter Deisenroth et al.
+203. Linear Algebra and Its Applications — Gilbert Strang
+204. Introduction to Linear Algebra — Gilbert Strang
+205. Calculus — Michael Spivak
+206. How to Prove It — Daniel J. Velleman
+207. Concrete Mathematics — Ronald L. Graham, Donald E. Knuth and Oren Patashnik
+208. Introduction to Algorithms — Thomas H. Cormen et al.
+
+PART 14 — COMPUTER SCIENCE AND SOFTWARE ENGINEERING
+PRIORITY: EXTREMELY HIGH
+209. Clean Code — Robert C. Martin
+210. The Pragmatic Programmer — David Thomas and Andrew Hunt
+211. Code Complete — Steve McConnell
+212. Refactoring — Martin Fowler
+213. Design Patterns — Erich Gamma et al.
+214. A Philosophy of Software Design — John Ousterhout
+215. Working Effectively with Legacy Code — Michael Feathers
+216. The Mythical Man-Month — Frederick P. Brooks Jr.
+217. Peopleware — Tom DeMarco and Timothy Lister
+218. The Art of Computer Programming, Volume 1 — Donald E. Knuth
+219. Structure and Interpretation of Computer Programs — Harold Abelson and Gerald Jay Sussman
+220. Computer Systems: A Programmer's Perspective — Randal E. Bryant and David R. O'Hallaron
+221. Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+222. Computer Networking: A Top-Down Approach — James F. Kurose and Keith W. Ross
+223. Database System Concepts — Abraham Silberschatz et al.
+224. Designing Data-Intensive Applications — Martin Kleppmann
+
+PART 15 — SYSTEM DESIGN, CLOUD AND DISTRIBUTED SYSTEMS
+PRIORITY: EXTREMELY HIGH
+225. System Design Interview, Volume 1 — Alex Xu
+226. System Design Interview, Volume 2 — Alex Xu
+227. Fundamentals of Software Architecture — Mark Richards and Neal Ford
+228. Software Architecture: The Hard Parts — Neal Ford et al.
+229. Building Microservices — Sam Newman
+230. Release It! — Michael T. Nygard
+231. Site Reliability Engineering — Betsy Beyer et al.
+232. The Site Reliability Workbook — Betsy Beyer et al.
+233. Designing Distributed Systems — Brendan Burns
+234. Distributed Systems — Maarten van Steen and Andrew S. Tanenbaum
+235. Database Internals — Alex Petrov
+236. Architecture Patterns with Python — Harry Percival and Bob Gregory
+237. Cloud Native Patterns — Cornelia Davis
+238. Kubernetes: Up and Running — Brendan Burns et al.
+239. Infrastructure as Code — Kief Morris
+240. Accelerate — Nicole Forsgren, Jez Humble and Gene Kim
+
+PART 16 — ARTIFICIAL INTELLIGENCE, DATA SCIENCE AND ML
+PRIORITY: EXTREMELY HIGH
+241. Artificial Intelligence: A Modern Approach — Stuart Russell and Peter Norvig
+242. Pattern Recognition and Machine Learning — Christopher M. Bishop
+243. The Elements of Statistical Learning — Trevor Hastie et al.
+244. An Introduction to Statistical Learning — Gareth James et al.
+245. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow — Aurélien Géron
+246. Deep Learning — Ian Goodfellow, Yoshua Bengio and Aaron Courville
+247. Deep Learning with Python — François Chollet
+248. Designing Machine Learning Systems — Chip Huyen
+249. Machine Learning Engineering — Andriy Burkov
+250. The Hundred-Page Machine Learning Book — Andriy Burkov
+251. Practical Statistics for Data Scientists — Peter Bruce et al.
+252. Feature Engineering for Machine Learning — Alice Zheng and Amanda Casari
+253. Interpretable Machine Learning — Christoph Molnar
+254. Trustworthy Machine Learning — Kush R. Varshney
+255. Prediction Machines — Ajay Agrawal, Joshua Gans and Avi Goldfarb
+256. Human Compatible — Stuart Russell
+
+PART 17 — AI PRODUCTS, AUTOMATION AND FUTURE TECHNOLOGY
+PRIORITY: EXTREMELY HIGH
+257. Competing in the Age of AI — Marco Iansiti and Karim R. Lakhani
+258. Power and Prediction — Ajay Agrawal, Joshua Gans and Avi Goldfarb
+259. The Coming Wave — Mustafa Suleyman and Michael Bhaskar
+260. Co-Intelligence — Ethan Mollick
+261. The Alignment Problem — Brian Christian
+262. Life 3.0 — Max Tegmark
+263. Superintelligence — Nick Bostrom
+264. Rebooting AI — Gary Marcus and Ernest Davis
+265. The Master Algorithm — Pedro Domingos
+266. Architects of Intelligence — Martin Ford
+267. The Second Machine Age — Erik Brynjolfsson and Andrew McAfee
+268. The Industries of the Future — Alec Ross
+269. The Innovators — Walter Isaacson
+270. Where Good Ideas Come From — Steven Johnson
+271. The Creative Act — Rick Rubin
+272. The Design of Everyday Things — Don Norman
+
+PART 18 — CAREER CAPITAL, PRODUCTIVITY AND EXECUTION
+PRIORITY: HIGH
+273. So Good They Can't Ignore You — Cal Newport
+274. Deep Work — Cal Newport
+275. Digital Minimalism — Cal Newport
+276. Atomic Habits — James Clear
+277. Tiny Habits — BJ Fogg
+278. Essentialism — Greg McKeown
+279. Getting Things Done — David Allen
+280. The One Thing — Gary Keller and Jay Papasan
+281. The 7 Habits of Highly Effective People — Stephen R. Covey
+282. The Effective Engineer — Edmond Lau
+283. Staff Engineer — Will Larson
+284. The Manager's Path — Camille Fournier
+285. An Elegant Puzzle — Will Larson
+286. The First 90 Days — Michael D. Watkins
+287. Never Eat Alone — Keith Ferrazzi and Tahl Raz
+288. The Unfair Advantage — Ash Ali and Hasan Kubba
+
+PART 19 — COMMUNICATION, LEADERSHIP AND ORGANIZATIONAL PSYCHOLOGY
+PRIORITY: HIGH
+289. Crucial Conversations — Kerry Patterson et al.
+290. Difficult Conversations — Douglas Stone, Bruce Patton and Sheila Heen
+291. Thanks for the Feedback — Douglas Stone and Sheila Heen
+292. Nonviolent Communication — Marshall B. Rosenberg
+293. Radical Candor — Kim Scott
+294. The Culture Code — Daniel Coyle
+295. Drive — Daniel H. Pink
+296. Mindset — Carol S. Dweck
+297. Emotional Intelligence — Daniel Goleman
+298. The Righteous Mind — Jonathan Haidt
+299. The Fearless Organization — Amy C. Edmondson
+300. Team of Teams — Stanley McChrystal et al.
+301. Turn the Ship Around! — L. David Marquet
+302. Multipliers — Liz Wiseman
+303. Leadership and Self-Deception — The Arbinger Institute
+304. The 48 Laws of Power — Robert Greene
+
+PART 20 — HISTORY, GEOPOLITICS AND INTERNATIONAL RELATIONS
+PRIORITY: MEDIUM
+305. Sapiens — Yuval Noah Harari
+306. Homo Deus — Yuval Noah Harari
+307. Guns, Germs, and Steel — Jared Diamond
+308. The Silk Roads — Peter Frankopan
+309. Prisoners of Geography — Tim Marshall
+310. The Revenge of Geography — Robert D. Kaplan
+311. The World: A Brief Introduction — Richard Haass
+312. Diplomacy — Henry Kissinger
+313. The Tragedy of Great Power Politics — John J. Mearsheimer
+314. The Grand Chessboard — Zbigniew Brzezinski
+315. The Rise and Fall of the Great Powers — Paul Kennedy
+316. The Origins of Political Order — Francis Fukuyama
+317. Political Order and Political Decay — Francis Fukuyama
+318. The Lessons of History — Will and Ariel Durant
+319. The Story of Civilization, Volume 1 — Will Durant
+320. India After Gandhi — Ramachandra Guha
+
+PART 21 — INDIAN SOCIETY, POLITICS AND INSTITUTIONS
+PRIORITY: HIGH
+321. The Discovery of India — Jawaharlal Nehru
+322. Annihilation of Caste — B. R. Ambedkar
+323. The Argumentative Indian — Amartya Sen
+324. The Idea of India — Sunil Khilnani
+325. India Unbound — Gurcharan Das
+326. The Difficulty of Being Good — Gurcharan Das
+327. The Elephant Paradigm — Gurcharan Das
+328. The Great Indian Novel — Shashi Tharoor
+329. Everybody Loves a Good Drought — P. Sainath
+330. The Beautiful and the Damned — Siddhartha Deb
+331. Why I Am a Hindu — Shashi Tharoor
+332. The Indian Constitution: Cornerstone of a Nation — Granville Austin
+333. Working a Democratic Constitution — Granville Austin
+334. The Emergency — Coomi Kapoor
+335. The Idea of Justice — Amartya Sen
+336. The Billionaire Raj — James Crabtree
+
+PART 22 — LAW, ETHICS, PRIVACY AND INSTITUTIONS
+PRIORITY: MEDIUM
+337. The Rule of Law — Tom Bingham
+338. The Concept of Law — H. L. A. Hart
+339. Law's Empire — Ronald Dworkin
+340. Justice: What's the Right Thing to Do? — Michael J. Sandel
+341. On Liberty — John Stuart Mill
+342. The Constitution of Liberty — F. A. Hayek
+343. The Federalist Papers — Alexander Hamilton, James Madison and John Jay
+344. The Common Law — Oliver Wendell Holmes Jr.
+345. The Ethics of Liberty — Murray N. Rothbard
+346. Weapons of Math Destruction — Cathy O'Neil
+347. Privacy Is Power — Carissa Véliz
+348. The Age of Surveillance Capitalism — Shoshana Zuboff
+349. Data and Goliath — Bruce Schneier
+350. Click Here to Kill Everybody — Bruce Schneier
+351. The Code of Capital — Katharina Pistor
+352. The Tyranny of Metrics — Jerry Z. Muller
+
+PART 23 — PHILOSOPHY, LOGIC AND THE GOOD LIFE
+PRIORITY: HIGH
+353. Meditations — Marcus Aurelius
+354. Letters from a Stoic — Seneca
+355. Discourses and Selected Writings — Epictetus
+356. The Republic — Plato
+357. Nicomachean Ethics — Aristotle
+358. The Art of Happiness — Dalai Lama and Howard C. Cutler
+359. Man's Search for Meaning — Viktor E. Frankl
+360. The Denial of Death — Ernest Becker
+361. The Problems of Philosophy — Bertrand Russell
+362. A History of Western Philosophy — Bertrand Russell
+363. The Myth of Sisyphus — Albert Camus
+364. Beyond Good and Evil — Friedrich Nietzsche
+365. The Bhagavad Gita — translated by Eknath Easwaran
+366. The Upanishads — translated by Eknath Easwaran
+367. Tao Te Ching — translated by Stephen Mitchell
+368. The Varieties of Religious Experience — William James
+
+PART 24 — BIOLOGY, PHYSICS, HEALTH AND HUMAN PERFORMANCE
+PRIORITY: HIGH
+369. The Selfish Gene — Richard Dawkins
+370. The Blind Watchmaker — Richard Dawkins
+371. The Gene — Siddhartha Mukherjee
+372. The Emperor of All Maladies — Siddhartha Mukherjee
+373. The Body — Bill Bryson
+374. Why We Sleep — Matthew Walker
+375. Exercised — Daniel E. Lieberman
+376. Outlive — Peter Attia and Bill Gifford
+377. The Story of the Human Body — Daniel E. Lieberman
+378. Behave — Robert M. Sapolsky
+379. A Brief History of Time — Stephen Hawking
+380. The Fabric of the Cosmos — Brian Greene
+381. Cosmos — Carl Sagan
+382. The Demon-Haunted World — Carl Sagan
+383. The Sixth Extinction — Elizabeth Kolbert
+384. The Uninhabitable Earth — David Wallace-Wells
+
+PART 25 — LITERATURE, BIOGRAPHY, CREATIVITY AND HUMAN NATURE
+PRIORITY: HIGH
+385. The Snowball — Alice Schroeder
+386. Steve Jobs — Walter Isaacson
+387. Benjamin Franklin: An American Life — Walter Isaacson
+388. Einstein: His Life and Universe — Walter Isaacson
+389. Titan: The Life of John D. Rockefeller, Sr. — Ron Chernow
+390. The House of Morgan — Ron Chernow
+391. Alexander Hamilton — Ron Chernow
+392. Shoe Dog — Phil Knight
+393. Made in America — Sam Walton with John Huey
+394. Losing My Virginity — Richard Branson
+395. The Autobiography of Benjamin Franklin — Benjamin Franklin
+396. The Wright Brothers — David McCullough
+397. To Kill a Mockingbird — Harper Lee
+398. 1984 — George Orwell
+399. Animal Farm — George Orwell
+400. The Count of Monte Cristo — Alexandre Dumas
